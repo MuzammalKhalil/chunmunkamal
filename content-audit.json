@@ -323,28 +323,6 @@
     },
     {
       "slide": 6,
-      "block": 11,
-      "text": "Book Your Midlife",
-      "uses": [
-        {
-          "disposition": "verbatim website copy",
-          "reason": ""
-        }
-      ]
-    },
-    {
-      "slide": 6,
-      "block": 12,
-      "text": "Recharge Call",
-      "uses": [
-        {
-          "disposition": "verbatim website copy",
-          "reason": ""
-        }
-      ]
-    },
-    {
-      "slide": 6,
       "block": 3,
       "text": "“I’ve learned so much about improving my health and wellbeing in a way that’s realistic and sustainable.” - Amelia Ivory",
       "uses": [
@@ -369,6 +347,28 @@
       "slide": 6,
       "block": 13,
       "text": "I respect your inbox - No spam",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 11,
+      "text": "Book Your Midlife",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 12,
+      "text": "Recharge Call",
       "uses": [
         {
           "disposition": "verbatim website copy",
@@ -807,17 +807,6 @@
     },
     {
       "slide": 9,
-      "block": 18,
-      "text": "What’s your midlife health costing you?",
-      "uses": [
-        {
-          "disposition": "verbatim website copy",
-          "reason": ""
-        }
-      ]
-    },
-    {
-      "slide": 9,
       "block": 1,
       "text": "– The Executive",
       "uses": [
@@ -842,6 +831,17 @@
       "slide": 9,
       "block": 5,
       "text": "– The Professional",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 18,
+      "text": "What’s your midlife health costing you?",
       "uses": [
         {
           "disposition": "verbatim website copy",
@@ -1016,8 +1016,8 @@
     },
     {
       "slide": 10,
-      "block": 1,
-      "text": "Correct the pattern. End the struggle. Take back control.",
+      "block": 0,
+      "text": "You've tried the obvious fixes - followed the trending diet or fitness fad, read the latest book, watched a podcast, tried a new supplement, or pushed yourself even harder. \n\nSome of the fixes helped, but none brought the results you were after.",
       "uses": [
         {
           "disposition": "verbatim website copy",
@@ -1027,8 +1027,8 @@
     },
     {
       "slide": 10,
-      "block": 0,
-      "text": "You've tried the obvious fixes - followed the trending diet or fitness fad, read the latest book, watched a podcast, tried a new supplement, or pushed yourself even harder. \n\nSome of the fixes helped, but none brought the results you were after.",
+      "block": 3,
+      "text": "That’s because your struggles aren’t separate problems, but parts of an inter-connected pattern.",
       "uses": [
         {
           "disposition": "verbatim website copy",
@@ -1049,8 +1049,30 @@
     },
     {
       "slide": 10,
-      "block": 3,
-      "text": "That’s because your struggles aren’t separate problems, but parts of an inter-connected pattern.",
+      "block": 1,
+      "text": "Correct the pattern. End the struggle. Take back control.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "block": 6,
+      "text": "Book Your Midlife",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "block": 7,
+      "text": "Recharge Call",
       "uses": [
         {
           "disposition": "verbatim website copy",
@@ -1081,28 +1103,6 @@
       ]
     },
     {
-      "slide": 10,
-      "block": 6,
-      "text": "Book Your Midlife",
-      "uses": [
-        {
-          "disposition": "verbatim website copy",
-          "reason": ""
-        }
-      ]
-    },
-    {
-      "slide": 10,
-      "block": 7,
-      "text": "Recharge Call",
-      "uses": [
-        {
-          "disposition": "verbatim website copy",
-          "reason": ""
-        }
-      ]
-    },
-    {
       "slide": 11,
       "block": 0,
       "text": "I get it. I know how frustrating it is to try out different things but still feel like deep sleep, stable energy and a calm mind are out of reach.",
@@ -1126,8 +1126,8 @@
     },
     {
       "slide": 11,
-      "block": 2,
-      "text": "Your body isn’t broken.",
+      "block": 3,
+      "text": "You’re not losing your mind.",
       "uses": [
         {
           "disposition": "verbatim website copy",
@@ -1137,8 +1137,8 @@
     },
     {
       "slide": 11,
-      "block": 3,
-      "text": "You’re not losing your mind.",
+      "block": 2,
+      "text": "Your body isn’t broken.",
       "uses": [
         {
           "disposition": "verbatim website copy",
@@ -1192,74 +1192,19 @@
     },
     {
       "slide": 12,
+      "block": 10,
+      "text": "Discover Your Root Cause.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
       "block": 3,
       "text": "Discover your unique root cause  Get clear on what is draining your energy, disrupting your sleep and adding to your stress—so you can address the root causes and make changes that last.",
-      "uses": [
-        {
-          "disposition": "verbatim website copy",
-          "reason": ""
-        }
-      ]
-    },
-    {
-      "slide": 12,
-      "block": 1,
-      "text": "Nutrition that truly nourishes",
-      "uses": [
-        {
-          "disposition": "verbatim website copy",
-          "reason": ""
-        }
-      ]
-    },
-    {
-      "slide": 12,
-      "block": 2,
-      "text": "As a busy professional, your nutrition needs to match your schedule. Adjust your balance of protein, carbs and fats—and choose foods that fit your weekly schedule and energy needs. No more mid-afternoon energy crashes.",
-      "uses": [
-        {
-          "disposition": "verbatim website copy",
-          "reason": ""
-        }
-      ]
-    },
-    {
-      "slide": 12,
-      "block": 4,
-      "text": "Clarity and Confidence",
-      "uses": [
-        {
-          "disposition": "verbatim website copy",
-          "reason": ""
-        }
-      ]
-    },
-    {
-      "slide": 12,
-      "block": 5,
-      "text": "Structured support and accountability to turn what you learn into confident application. Get proven methods and support to trust yourself, build confidence and cope any change or challenge.",
-      "uses": [
-        {
-          "disposition": "verbatim website copy",
-          "reason": ""
-        }
-      ]
-    },
-    {
-      "slide": 12,
-      "block": 6,
-      "text": "Nervous System(NS) Regulation",
-      "uses": [
-        {
-          "disposition": "verbatim website copy",
-          "reason": ""
-        }
-      ]
-    },
-    {
-      "slide": 12,
-      "block": 7,
-      "text": "Your nervous system sets the tone for how you show up.  When you feel calm and grounded, your energy often helps others feel calmer too. Recover faster from hard days with tools that you can use anywhere, anytime.",
       "uses": [
         {
           "disposition": "verbatim website copy",
@@ -1291,6 +1236,39 @@
     },
     {
       "slide": 12,
+      "block": 11,
+      "text": "Rebuild Your Rhythm.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 1,
+      "text": "Nutrition that truly nourishes",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 2,
+      "text": "As a busy professional, your nutrition needs to match your schedule. Adjust your balance of protein, carbs and fats—and choose foods that fit your weekly schedule and energy needs. No more mid-afternoon energy crashes.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
       "block": 12,
       "text": "A whole person approach",
       "uses": [
@@ -1313,30 +1291,52 @@
     },
     {
       "slide": 12,
-      "block": 10,
-      "text": "Discover Your Root Cause.",
-      "uses": [
-        {
-          "disposition": "verbatim website copy",
-          "reason": ""
-        }
-      ]
-    },
-    {
-      "slide": 12,
-      "block": 11,
-      "text": "Rebuild Your Rhythm.",
-      "uses": [
-        {
-          "disposition": "verbatim website copy",
-          "reason": ""
-        }
-      ]
-    },
-    {
-      "slide": 12,
       "block": 14,
       "text": "Strengthen Your Resilience.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 6,
+      "text": "Nervous System(NS) Regulation",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 7,
+      "text": "Your nervous system sets the tone for how you show up.  When you feel calm and grounded, your energy often helps others feel calmer too. Recover faster from hard days with tools that you can use anywhere, anytime.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 4,
+      "text": "Clarity and Confidence",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 5,
+      "text": "Structured support and accountability to turn what you learn into confident application. Get proven methods and support to trust yourself, build confidence and cope any change or challenge.",
       "uses": [
         {
           "disposition": "verbatim website copy",
@@ -1539,6 +1539,10 @@
         {
           "disposition": "verbatim website copy",
           "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
         }
       ]
     },
@@ -1547,6 +1551,10 @@
       "block": 1,
       "text": "When you don’t listen to your body, it forces you to",
       "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
         {
           "disposition": "verbatim website copy",
           "reason": ""
@@ -1561,6 +1569,10 @@
         {
           "disposition": "verbatim website copy",
           "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
         }
       ]
     },
@@ -1569,6 +1581,10 @@
       "block": 3,
       "text": "Deep sleep remains out of reach",
       "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
         {
           "disposition": "verbatim website copy",
           "reason": ""
@@ -1583,6 +1599,10 @@
         {
           "disposition": "verbatim website copy",
           "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
         }
       ]
     },
@@ -1591,6 +1611,10 @@
       "block": 5,
       "text": "Regular afternoon energy crashes can make it easier to rely on sugar, caffeine or quick-fix foods. Over time, this pattern may make it harder to support steady blood sugar and long-term metabolic health.",
       "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
         {
           "disposition": "verbatim website copy",
           "reason": ""
@@ -1605,6 +1629,10 @@
         {
           "disposition": "verbatim website copy",
           "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
         }
       ]
     },
@@ -1613,6 +1641,10 @@
       "block": 7,
       "text": "Without enough recovery, everyday pressures can start to feel overwhelming. Ongoing stress can affect digestion, immunity, sleep, mood, and other areas—leaving you with less capacity to cope well.",
       "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
         {
           "disposition": "verbatim website copy",
           "reason": ""
@@ -1627,6 +1659,10 @@
         {
           "disposition": "verbatim website copy",
           "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
         }
       ]
     },
@@ -1635,6 +1671,10 @@
       "block": 9,
       "text": "Taking a piecemeal approach to your health and wellbeing only adds to the costs as the root cause isn’t fully explored. The results feel the same – disconnected.",
       "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
         {
           "disposition": "verbatim website copy",
           "reason": ""
@@ -1649,6 +1689,10 @@
         {
           "disposition": "verbatim website copy",
           "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
         }
       ]
     },
@@ -1657,6 +1701,10 @@
       "block": 11,
       "text": "As symptoms build, your body begins to respond differently. Keeping up with your children, grandchildren or other loved ones can become a struggle. Making memories may feel more exhausting than enjoyable.",
       "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
         {
           "disposition": "verbatim website copy",
           "reason": ""
@@ -1671,6 +1719,10 @@
         {
           "disposition": "verbatim website copy",
           "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
         }
       ]
     },
@@ -1679,6 +1731,10 @@
       "block": 13,
       "text": "Every day spent in this cycle is a day without joy, vitality and the ability to make a difference in the world. Over time, the impact builds—until your body forces you to stop giving to others at the cost of your own health.",
       "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
         {
           "disposition": "verbatim website copy",
           "reason": ""
@@ -1800,6 +1856,10 @@
       "block": 2,
       "text": "Feel older than you are",
       "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
         {
           "disposition": "verbatim website copy",
           "reason": ""
@@ -2086,7 +2146,7 @@
       "uses": [
         {
           "disposition": "design / implementation note",
-          "reason": "Presentation layout / continuation label"
+          "reason": "Presentation label identifying testimonial banner"
         }
       ]
     },
@@ -3808,17 +3868,6 @@
     },
     {
       "slide": 45,
-      "block": 1,
-      "text": "Landing Page – S3",
-      "uses": [
-        {
-          "disposition": "design / implementation note",
-          "reason": "Presentation layout / continuation label"
-        }
-      ]
-    },
-    {
-      "slide": 45,
       "block": 2,
       "text": "Discovery and Consultation",
       "uses": [
@@ -3858,6 +3907,17 @@
         {
           "disposition": "verbatim website copy",
           "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 45,
+      "block": 1,
+      "text": "Landing Page – S3",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Presentation layout / continuation label"
         }
       ]
     },
@@ -4798,6 +4858,17 @@
     },
     {
       "slide": 55,
+      "block": 4,
+      "text": "My Coaching Path And Credentials",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
       "block": 0,
       "text": "About Me - 2",
       "uses": [
@@ -4833,17 +4904,6 @@
       "slide": 55,
       "block": 3,
       "text": "My education and professional experiences shape my coaching approach, combining knowledge from different disciplines along with the wisdom of my Indian heritage.",
-      "uses": [
-        {
-          "disposition": "verbatim website copy",
-          "reason": ""
-        }
-      ]
-    },
-    {
-      "slide": 55,
-      "block": 4,
-      "text": "My Coaching Path And Credentials",
       "uses": [
         {
           "disposition": "verbatim website copy",

@@ -1,0 +1,2093 @@
+[
+  {
+    "slide": 1,
+    "shapes": [
+      {
+        "text": "Banner/Blue Box (Dark Blue) - #212D53 \nText (Black) - #030303",
+        "x": 66.0,
+        "y": 112.1,
+        "width": 828.0,
+        "height": 88.3,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "#4E4D5F",
+        "x": 90.1,
+        "y": 238.4,
+        "width": 107.0,
+        "height": 111.4,
+        "fill": "#4E4D5F"
+      },
+      {
+        "text": "#C6786D",
+        "x": 247.0,
+        "y": 238.0,
+        "width": 107.0,
+        "height": 111.4,
+        "fill": "#C6786D"
+      },
+      {
+        "text": "#CFA877",
+        "x": 403.9,
+        "y": 238.0,
+        "width": 107.0,
+        "height": 111.4,
+        "fill": "#CFA877"
+      },
+      {
+        "text": "#65845A",
+        "x": 560.9,
+        "y": 238.0,
+        "width": 107.0,
+        "height": 111.4,
+        "fill": "#65845A"
+      },
+      {
+        "text": "#212D53",
+        "x": 607.6,
+        "y": 96.1,
+        "width": 232.7,
+        "height": 26.7,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "shapes": [
+      {
+        "text": "You have the logo – I’m mainly going to use the black, white or transparent version of it.",
+        "x": 66.0,
+        "y": 112.1,
+        "width": 828.0,
+        "height": 88.3,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "shapes": [
+      {
+        "text": "The icons currently used are standard Microsoft PowerPoint icons. \nPlease source and use icons or images that are more relevant to the topic and in keeping with the brand.",
+        "x": 66.0,
+        "y": 143.8,
+        "width": 828.0,
+        "height": 222.4,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "shapes": [
+      {
+        "text": "I’ve written the content to flow in a specific way…these websites will give you a feel of the layout\n\nhttps://www.heidiallsopcoaching.com/\nhttps://andreagiles.com/\nhttps://susanfilan.com/",
+        "x": 66.0,
+        "y": 133.1,
+        "width": 828.0,
+        "height": 342.6,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 5,
+    "shapes": [
+      {
+        "text": "I quite like the fonts used on this site -  https://www.heidiallsopcoaching.com/ and https://susanfilan.com/",
+        "x": 66.0,
+        "y": 133.1,
+        "width": 828.0,
+        "height": 87.3,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 6,
+    "shapes": [
+      {
+        "text": "",
+        "x": 32.7,
+        "y": 143.8,
+        "width": 590.7,
+        "height": 274.0,
+        "fill": [
+          250,
+          250,
+          250
+        ]
+      },
+      {
+        "text": "Logo",
+        "x": 0.0,
+        "y": 36.4,
+        "width": 98.6,
+        "height": 72.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Midlife Health, Wellness and Resilience Coach",
+        "x": 54.5,
+        "y": 163.5,
+        "width": 434.2,
+        "height": 26.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Personalised coaching for busy midlife professionals who want more restful sleep, steady energy and faster recovery from stress, without complicated routines, extreme diets or one-size-fits-all advice.",
+        "x": 54.5,
+        "y": 275.6,
+        "width": 568.9,
+        "height": 72.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "“I’ve learned so much about improving my health and wellbeing in a way that’s realistic and sustainable.” - Amelia Ivory",
+        "x": 54.5,
+        "y": 363.5,
+        "width": 536.5,
+        "height": 41.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "About Me",
+        "x": 111.1,
+        "y": 35.2,
+        "width": 100.7,
+        "height": 50.9,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Case Studies",
+        "x": 610.6,
+        "y": 35.1,
+        "width": 125.7,
+        "height": 50.9,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Blog",
+        "x": 735.0,
+        "y": 33.9,
+        "width": 105.4,
+        "height": 72.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "1:1 Coaching",
+        "x": 225.0,
+        "y": 35.2,
+        "width": 155.8,
+        "height": 50.9,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Contact",
+        "x": 828.4,
+        "y": 36.4,
+        "width": 98.6,
+        "height": 72.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Workplace Wellbeing",
+        "x": 394.1,
+        "y": 36.7,
+        "width": 196.9,
+        "height": 50.9,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Sleep deeply. Feel energised. Stay calm under pressure.",
+        "x": 54.5,
+        "y": 193.4,
+        "width": 556.1,
+        "height": 75.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Book Your Midlife \nRecharge Call",
+        "x": 648.8,
+        "y": 91.6,
+        "width": 278.2,
+        "height": 46.0,
+        "fill": [
+          211,
+          187,
+          127
+        ]
+      },
+      {
+        "text": "I respect your inbox - No spam",
+        "x": 54.5,
+        "y": 495.4,
+        "width": 232.6,
+        "height": 24.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "​\nTake  the free Midlife Energy, Sleep and Resilience Quiz",
+        "x": 54.6,
+        "y": 439.1,
+        "width": 248.3,
+        "height": 54.2,
+        "fill": [
+          211,
+          187,
+          127
+        ]
+      },
+      {
+        "text": "My photo placeholder",
+        "x": 648.8,
+        "y": 143.8,
+        "width": 277.9,
+        "height": 274.0,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 7,
+    "shapes": [
+      {
+        "text": "Many individuals and teams I work with are ambitious, on the go and used to pushing through. \nOn the surface, the story is of effortless execution. But underneath, their body is telling another story - one of overwhelm, exhaustion and overstimulation.\n\nIn midlife, you need more steady energy, self-trust and internal capacity to handle the demands that are placed on you. You deserve to wake rested, have stable energy throughout the day, and handle daily stressors without lowering your standards, slowing your ambition or limiting your dreams.\n \nIt’s time to find out what’s really draining your energy, disrupting your sleep and driving your stress.",
+        "x": 30.2,
+        "y": 17.5,
+        "width": 896.0,
+        "height": 203.6,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Discover Your Root Cause. Rebuild Your Rhythm. Strengthen Your Resilience.",
+        "x": 30.2,
+        "y": 226.0,
+        "width": 848.0,
+        "height": 31.5,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "30 mins. No pressure. Just clarity.",
+        "x": 30.2,
+        "y": 351.7,
+        "width": 232.6,
+        "height": 24.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "​\n1:1 Coaching\nBook Your Midlife \nRecharge Call",
+        "x": 30.4,
+        "y": 270.0,
+        "width": 248.3,
+        "height": 76.3,
+        "fill": "#212D53"
+      },
+      {
+        "text": "​\nWorkplace Wellbeing\nDiscovery Call",
+        "x": 383.6,
+        "y": 271.9,
+        "width": 248.3,
+        "height": 77.2,
+        "fill": "#C09E48"
+      },
+      {
+        "text": "Bespoke Programmes. Let’s chat.",
+        "x": 383.6,
+        "y": 351.8,
+        "width": 248.3,
+        "height": 24.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Two ways to work with me",
+        "x": 227.4,
+        "y": 266.7,
+        "width": 252.6,
+        "height": 31.5,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Health and Wellness Coach (final stage of certification), Certified Menopause Coach, Resilience Coach, Personalised Care Institute Practitioner, Yoga and Breath Work Practioner, Mindful-Based Stress Reduction Practitioner, Reiki Practitioner (Level 2)",
+        "x": 0.0,
+        "y": 446.5,
+        "width": 960.0,
+        "height": 84.8,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 8,
+    "shapes": [
+      {
+        "text": "1:1 Coaching",
+        "x": 71.8,
+        "y": 69.1,
+        "width": 816.5,
+        "height": 401.8,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 9,
+    "shapes": [
+      {
+        "text": "Phot/Icon placeholder\n – The Executive",
+        "x": 47.7,
+        "y": 109.6,
+        "width": 183.4,
+        "height": 72.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Phot/Icon placeholder\n– The Business Owner",
+        "x": 47.7,
+        "y": 232.8,
+        "width": 183.4,
+        "height": 94.5,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Phot/Icon placeholder\n– The Professional",
+        "x": 47.7,
+        "y": 389.1,
+        "width": 183.4,
+        "height": 72.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "You’re an executive, a business owner or a busy professional who is constantly on the go, taking risks and achieving results. \n\nYou want to continue performing at your best, but you’ve hit midlife. The toll of the long work hours, eating on the go, juggling several personal and professional responsibilities, hormonal changes in the body, and the daily strain of high-pressure decisions has started to show.",
+        "x": 256.3,
+        "y": 98.1,
+        "width": 671.8,
+        "height": 123.6,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Sleep - Waking up between 2-4 am and lying there, wide awake?\nEnergy - Low energy and stamina, unable to keep up with your kids or grand kids?\nWeight - It creeps up no matter what you eat or how you move?\nMenopausal symptoms - Hot flushes, night sweats, or forgetting things?\nEating \"well\" - But still feeling lethargic and unable to concentrate?\nMid-afternoon energy slumps - Rescued by sugar, caffeine or nicotine?\nAches and pains - That flare up when you're overwhelmed or stressed?\nUnsteady mood - On a short fuse snapping at your colleagues, partner or kids?\nStress - The pressure never seems to fade or you’re close to burning out?",
+        "x": 274.3,
+        "y": 280.0,
+        "width": 659.2,
+        "height": 181.8,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Are you struggling with:",
+        "x": 261.7,
+        "y": 250.4,
+        "width": 528.9,
+        "height": 26.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "What’s your midlife health costing you?",
+        "x": 255.9,
+        "y": 57.1,
+        "width": 608.2,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 10,
+    "shapes": [
+      {
+        "text": "You've tried the obvious fixes - followed the trending diet or fitness fad, read the latest book, watched a podcast, tried a new supplement, or pushed yourself even harder. Some of the fixes helped, but none brought the results you were after.",
+        "x": 210.0,
+        "y": 40.8,
+        "width": 701.4,
+        "height": 94.5,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Correct the pattern. End the struggle. Take back control.",
+        "x": 210.0,
+        "y": 297.8,
+        "width": 526.3,
+        "height": 31.5,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "When your mind, body, and nervous system are constantly stretched beyond their capacity, high-performance drops and good health feels out of reach.",
+        "x": 213.8,
+        "y": 230.6,
+        "width": 701.4,
+        "height": 50.9,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "That’s because your struggles aren’t separate problems, but parts of an inter-connected pattern.",
+        "x": 211.0,
+        "y": 155.0,
+        "width": 705.7,
+        "height": 55.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "30 mins. No pressure. Just clarity.",
+        "x": 30.2,
+        "y": 334.1,
+        "width": 232.6,
+        "height": 24.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "​\nBook Your Midlife \nRecharge Call",
+        "x": 30.4,
+        "y": 270.0,
+        "width": 248.3,
+        "height": 59.9,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 11,
+    "shapes": [
+      {
+        "text": "I get it. I know how frustrating it is to try out different things but still feel like deep sleep, stable energy and a calm mind are out of reach.",
+        "x": 33.8,
+        "y": 57.5,
+        "width": 884.9,
+        "height": 65.4,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "You’re not lazy.",
+        "x": 116.1,
+        "y": 268.4,
+        "width": 153.2,
+        "height": 29.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Your body isn’t broken.",
+        "x": 668.0,
+        "y": 270.0,
+        "width": 231.5,
+        "height": 29.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "You’re not losing your mind.",
+        "x": 350.5,
+        "y": 268.7,
+        "width": 261.6,
+        "height": 29.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "You’re in a different stage of life and your body needs a different kind of support. That's why, as a certified health, wellness and resilience coach and mid-lifer who recovered from burnout, I've made it my mission to help busy high-performers in demanding roles just like you get the help you need to feel energised, stable and strong - from the inside out. Together we'll untangle the patterns that are holding you back. We’ll use a blend of evidence-based information, mindset change, and nervous system regulating practises, to make simple and sustainable lifestyle upgrades, so you can finally start to work with your body rather than against it.",
+        "x": 33.8,
+        "y": 313.4,
+        "width": 905.0,
+        "height": 162.4,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "",
+        "x": 129.7,
+        "y": 141.4,
+        "width": 107.0,
+        "height": 111.4,
+        "fill": "#4E4D5F"
+      },
+      {
+        "text": "",
+        "x": 432.8,
+        "y": 141.4,
+        "width": 107.0,
+        "height": 111.4,
+        "fill": "#C6786D"
+      },
+      {
+        "text": "",
+        "x": 723.2,
+        "y": 141.4,
+        "width": 107.0,
+        "height": 111.4,
+        "fill": "#CFA877"
+      }
+    ]
+  },
+  {
+    "slide": 12,
+    "shapes": [
+      {
+        "text": "",
+        "x": 653.1,
+        "y": 119.2,
+        "width": 325.9,
+        "height": 403.6,
+        "fill": [
+          249,
+          245,
+          236
+        ]
+      },
+      {
+        "text": "",
+        "x": 324.4,
+        "y": 118.0,
+        "width": 325.9,
+        "height": 403.6,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "",
+        "x": 0.0,
+        "y": 118.0,
+        "width": 314.0,
+        "height": 403.6,
+        "fill": [
+          239,
+          242,
+          238
+        ]
+      },
+      {
+        "text": "What happens when you have me by your side",
+        "x": 62.8,
+        "y": 34.8,
+        "width": 608.2,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Nutrition that truly nourishes \nAs a busy professional, your nutrition needs to match your schedule. Adjust your balance of protein, carbs and fats—and choose foods that fit your weekly schedule and energy needs. No more mid-afternoon energy crashes.",
+        "x": 336.7,
+        "y": 172.3,
+        "width": 295.5,
+        "height": 161.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Discover your unique root cause  Get clear on what is draining your energy, disrupting your sleep and adding to your stress—so you can address the root causes and make changes that last.",
+        "x": 21.0,
+        "y": 172.3,
+        "width": 286.7,
+        "height": 161.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Clarity and Confidence\nStructured support and accountability to turn what you learn into confident application. Get proven methods and support to trust yourself, build confidence and cope any change or challenge.",
+        "x": 668.6,
+        "y": 356.6,
+        "width": 290.2,
+        "height": 161.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Nervous System(NS) Regulation \nYour nervous system sets the tone for how you show up.  When you feel calm and grounded, your energy often helps others feel calmer too. Recover faster from hard days with tools that you can use anywhere, anytime.",
+        "x": 665.8,
+        "y": 176.5,
+        "width": 293.0,
+        "height": 161.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Master your mindset \nUnderstand how your thoughts, beliefs and behaviours shape your daily choices and results—so you can make deeper and lasting changes.",
+        "x": 21.0,
+        "y": 349.1,
+        "width": 286.7,
+        "height": 161.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Discover Your Root Cause.",
+        "x": 21.0,
+        "y": 130.8,
+        "width": 226.3,
+        "height": 26.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Rebuild Your Rhythm.",
+        "x": 352.0,
+        "y": 134.8,
+        "width": 182.7,
+        "height": 26.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "A whole person approach\nUnderstand how sleep, energy, nutrition and your nervous system are connected—so you can make simple, lasting changes that support your wellbeing from more than one angle.",
+        "x": 339.5,
+        "y": 348.2,
+        "width": 292.7,
+        "height": 161.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Strengthen Your Resilience.",
+        "x": 671.1,
+        "y": 140.1,
+        "width": 248.5,
+        "height": 26.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Using my signature framework, we’ll correct the pattern, end the struggle and take back control.",
+        "x": 62.8,
+        "y": 67.0,
+        "width": 878.1,
+        "height": 29.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "The Transformation",
+        "x": 62.8,
+        "y": 15.8,
+        "width": 608.2,
+        "height": 26.7,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 13,
+    "shapes": [
+      {
+        "text": "",
+        "x": 42.0,
+        "y": 90.5,
+        "width": 107.0,
+        "height": 111.4,
+        "fill": "#4E4D5F"
+      },
+      {
+        "text": "Mindset audit\nYou take stock of your beliefs, values, behaviours, levels of self-efficacy, self-esteem and motivation. Shortcuts fail because the internal dialogue doesn’t change.  True transformation sticks when the unconscious becomes conscious – there’s no going back to unhealthy patterns once you see them.\n\n\n\nYou’re in the driving seat - always\nYou know your life and routine better than anyone else. I help you cut through the noise, get radically honest with yourself, provide you the information and tools to help you make smart choices that get you deep sleep, stable energy, and quick recovery.\n\n\n\nSimple, high-impact strategies and a clear plan\nNo complex homework—just practical approaches that create immediate shifts without adding more to your plate. You walk away with a personalized roadmap that eliminates guesswork and builds lasting confidence in everyday decisions.",
+        "x": 167.9,
+        "y": 71.4,
+        "width": 489.9,
+        "height": 453.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "",
+        "x": 42.0,
+        "y": 233.7,
+        "width": 107.0,
+        "height": 111.4,
+        "fill": "#65845A"
+      },
+      {
+        "text": "",
+        "x": 41.1,
+        "y": 385.2,
+        "width": 107.0,
+        "height": 111.4,
+        "fill": "#CFA877"
+      },
+      {
+        "text": "My photo placeholder",
+        "x": 676.7,
+        "y": 95.3,
+        "width": 277.9,
+        "height": 405.3,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "What makes my approach unique",
+        "x": 26.3,
+        "y": 24.0,
+        "width": 823.9,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 14,
+    "shapes": [
+      {
+        "text": "",
+        "x": 42.0,
+        "y": 91.3,
+        "width": 107.0,
+        "height": 111.4,
+        "fill": "#C6786D"
+      },
+      {
+        "text": "Structure, accountability and iteration\nIn partnership, the personalized plan is adjusted as your life and workload change. Every coaching session includes relevant education, a clear structure, and serious accountability so you bridge the gap between knowing and doing. This isn’t about shortcuts or seasonal change; it's about building a lifestyle that works for you, 365 days. \n\n\n\nI’ve experienced burnout\nI understand what overwhelm, stress and burnout feel like. I know what it takes to disconnect from unhelpful beliefs, behaviours and habits, and nourish the mind, body and spirit.",
+        "x": 170.8,
+        "y": 90.9,
+        "width": 452.1,
+        "height": 298.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "",
+        "x": 42.0,
+        "y": 261.0,
+        "width": 107.0,
+        "height": 111.4,
+        "fill": "#4E4D5F"
+      },
+      {
+        "text": "My photo placeholder",
+        "x": 673.4,
+        "y": 90.9,
+        "width": 277.9,
+        "height": 405.3,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 15,
+    "shapes": [
+      {
+        "text": "1200+ Hours Learning \n200+ Hours of Coaching Experience",
+        "x": 1.0,
+        "y": 89.2,
+        "width": 317.5,
+        "height": 181.8,
+        "fill": "#212D53"
+      },
+      {
+        "text": "Blend of Evidence Based Strategies and Modalities Used",
+        "x": 320.1,
+        "y": 89.2,
+        "width": 315.5,
+        "height": 181.8,
+        "fill": "#212D53"
+      },
+      {
+        "text": "Compassionate,  Realistic and Transformational Support",
+        "x": 637.2,
+        "y": 89.2,
+        "width": 326.9,
+        "height": 181.8,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 16,
+    "shapes": [
+      {
+        "text": "",
+        "x": 0.0,
+        "y": 114.2,
+        "width": 960.0,
+        "height": 403.6,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "What happens when you don’t break the loop….",
+        "x": 73.3,
+        "y": 76.5,
+        "width": 608.2,
+        "height": 26.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "When you don’t listen to your body, it forces you to",
+        "x": 73.3,
+        "y": 45.1,
+        "width": 823.9,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Delaying help",
+        "x": 74.6,
+        "y": 22.2,
+        "width": 594.3,
+        "height": 26.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Deep sleep remains out of reach\nHigh stress, poor sleep and imbalanced nutrition can keep feeding into each other—leaving you caught in a never-ending cycle of exhaustion. Your energy, focus, concentration and productivity can suffer.",
+        "x": 23.8,
+        "y": 133.1,
+        "width": 298.4,
+        "height": 169.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Regular afternoon energy crashes can make it easier to rely on sugar, caffeine or quick-fix foods. Over time, this pattern may make it harder to support steady blood sugar and long-term metabolic health.",
+        "x": 335.1,
+        "y": 134.6,
+        "width": 298.4,
+        "height": 169.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Stress and overwhelm compound\nWithout enough recovery, everyday pressures can start to feel overwhelming. Ongoing stress can affect digestion, immunity, sleep, mood, and other areas—leaving you with less capacity to cope well.",
+        "x": 648.0,
+        "y": 133.1,
+        "width": 298.4,
+        "height": 169.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Isolated fixes add to your costs \nTaking a piecemeal approach to your health and wellbeing only adds to the costs as the root cause isn’t fully explored. The results feel the same – disconnected.",
+        "x": 23.8,
+        "y": 327.3,
+        "width": 298.4,
+        "height": 169.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Feel older than you actually are\nAs symptoms build, your body begins to respond differently. Keeping up with your children, grandchildren or other loved ones can become a struggle. Making memories may feel more exhausting than enjoyable.",
+        "x": 335.1,
+        "y": 327.3,
+        "width": 298.4,
+        "height": 169.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Precious time and energy lost\nEvery day spent in this cycle is a day without joy, vitality and the ability to make a difference in the world. Over time, the impact builds—until your body forces you to stop giving to others at the cost of your own health.",
+        "x": 648.0,
+        "y": 327.3,
+        "width": 298.4,
+        "height": 169.1,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 17,
+    "shapes": [
+      {
+        "text": "",
+        "x": 0.0,
+        "y": 114.2,
+        "width": 960.0,
+        "height": 403.6,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "What happens when you don’t break the loop….",
+        "x": 73.3,
+        "y": 76.5,
+        "width": 608.2,
+        "height": 26.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "When you don’t listen to your body, it forces you to",
+        "x": 73.3,
+        "y": 45.1,
+        "width": 823.9,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Delaying help",
+        "x": 74.6,
+        "y": 22.2,
+        "width": 594.3,
+        "height": 26.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Deep sleep remains out of reach\nHigh stress, poor sleep and imbalanced nutrition can keep feeding into each other—leaving you caught in a never-ending cycle of exhaustion. Your energy, focus, concentration and productivity can suffer.",
+        "x": 23.8,
+        "y": 156.4,
+        "width": 298.4,
+        "height": 271.0,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Regular afternoon energy crashes can make it easier to rely on sugar, caffeine or quick-fix foods. Over time, this pattern may make it harder to support steady blood sugar and long-term metabolic health.",
+        "x": 338.1,
+        "y": 156.4,
+        "width": 298.4,
+        "height": 272.5,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Stress and overwhelm compound\nWithout enough recovery, everyday pressures can start to feel overwhelming. Ongoing stress can affect digestion, immunity, sleep, mood, and other areas—leaving you with less capacity to cope well.",
+        "x": 648.0,
+        "y": 154.9,
+        "width": 298.4,
+        "height": 272.5,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 18,
+    "shapes": [
+      {
+        "text": "",
+        "x": 0.0,
+        "y": 154.5,
+        "width": 960.0,
+        "height": 363.3,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Isolated fixes add to your costs \nTaking a piecemeal approach to your health and wellbeing only adds to the costs as the root cause isn’t fully explored. The results feel the same – disconnected.",
+        "x": 15.8,
+        "y": 186.0,
+        "width": 298.4,
+        "height": 267.5,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Feel older than you are\nAs symptoms build, your body begins to respond differently. Keeping up with your children, grandchildren or other loved ones can become a struggle. Making memories may feel more exhausting than enjoyable.",
+        "x": 335.9,
+        "y": 186.0,
+        "width": 298.4,
+        "height": 267.5,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Precious time and energy lost\nEvery day spent in this cycle is a day without joy, vitality and the ability to make a difference in the world. Over time, the impact builds—until your body forces you to stop giving to others at the cost of your own health.",
+        "x": 649.5,
+        "y": 186.0,
+        "width": 298.4,
+        "height": 267.5,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Delaying help slide cpntent continued…",
+        "x": 55.8,
+        "y": 43.6,
+        "width": 608.2,
+        "height": 26.7,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 19,
+    "shapes": [
+      {
+        "text": "Here’s How It Works",
+        "x": 30.8,
+        "y": 13.7,
+        "width": 958.1,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Book your free 30 minute - Midlife Recharge Call\n\nWe’ll identify what’s draining your energy, disrupting your sleep and driving your stress. \n\nGet your  questions answered and learn how coaching can help you to create a sustainable wellness plan and achieve your health and life goals.\n\nYou’ll also discover which support option is the perfect fit for you.",
+        "x": 30.8,
+        "y": 147.8,
+        "width": 272.6,
+        "height": 356.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Get the support you need\nTransform your health and wellbeing through my tried and tested method.\n\nYou’ll receive personalised guidance, practical tools,  structure, and accountability to help you take back control and rebuild your health - from the inside out.",
+        "x": 340.2,
+        "y": 149.9,
+        "width": 279.6,
+        "height": 290.8,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Live well and thrive in midlife and beyond\nWhen you have the right information, tools and support, smart decisions and consistent follow-through come naturally. \n\nThe key to long-term change is starting small and staying consistent. Healthy living stops being a trend your follow - it becomes way of life.",
+        "x": 656.5,
+        "y": 147.8,
+        "width": 294.5,
+        "height": 290.8,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 20,
+    "shapes": [
+      {
+        "text": "Prioritise your health like you’ve prioritised your career.",
+        "x": 0.0,
+        "y": 204.6,
+        "width": 960.0,
+        "height": 94.5,
+        "fill": [
+          223,
+          206,
+          163
+        ]
+      },
+      {
+        "text": "30 mins. No pressure. Just clarity.",
+        "x": 30.2,
+        "y": 334.1,
+        "width": 232.6,
+        "height": 24.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "​\nBook Your Midlife \nRecharge Call",
+        "x": 30.4,
+        "y": 270.0,
+        "width": 248.3,
+        "height": 59.9,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 21,
+    "shapes": [
+      {
+        "text": "​“What sets Chunmun apart is her absolute, unwavering dedication. She didn't just skim the surface or hand me a generic plan but took the time to genuinely dig deep and understand the root of my problems. To anyone who is struggling, feeling stuck, or searching for answers, do yourself a favour and trust her with your journey.”– Lance Rodrigues, Defence Forces",
+        "x": 0.0,
+        "y": 147.4,
+        "width": 470.7,
+        "height": 187.6,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "“I dropped one dress size. The experience of partnership in my personal wellness goals, the gift of clarity of my own values, being listened to without judgment and getting practical feedback have been important benefits. I have been fortunate to have a brilliant coach who offered high-quality coaching and whom I felt has always been in my corner.”\n– Surinder Kaur-Sohanpal, Social Worker",
+        "x": 480.0,
+        "y": 147.4,
+        "width": 480.0,
+        "height": 187.6,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Testimonial Banner",
+        "x": 9.8,
+        "y": 44.9,
+        "width": 608.2,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 22,
+    "shapes": [
+      {
+        "text": "​“From the very beginning, I felt listened to, understood, and motivated. Thanks to the guidance and support I received, I’ve made positive changes that have genuinely improved my overall health and wellbeing. I would highly recommend Chunmun to anyone looking for a knowledgeable, compassionate, and supportive health coach.”– Amelia Ivory, Senior Educator",
+        "x": 0.0,
+        "y": 111.4,
+        "width": 470.7,
+        "height": 187.6,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "“Chunmun gave me a safe space to discuss what changes I needed to make and importantly the timescales I could do them in. Having accountability for these actions helped me. I would recommend Chunmun as a person who is good at drawing out patterns of behaviour and providing realistic support techniques to make improvements.” \n\n- Eloise Harris, Change and Adoption Lead",
+        "x": 480.0,
+        "y": 111.4,
+        "width": 480.0,
+        "height": 187.6,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 23,
+    "shapes": [
+      {
+        "text": "“ My sleep has improved and I found the progressive muscle relaxation method useful. I’ve reduced my alcohol intake this is something I’ve been working on for a while. Chunmun’s coaching has really helped me implement changes I’ve wanted to make for ages but wasn’t able to do on my own. Now I feel confident I can continue with the changes going forward.”  – Debbie Ivory, Retiree",
+        "x": 1.1,
+        "y": 111.4,
+        "width": 470.7,
+        "height": 187.6,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "‘I have lost weight, feel visibly more in shape, and my blood sugar is balanced. Chunmun coaching is never about rigid perfection or finding extra hours in the day; it is about practical, empathetic guidance that fits into real life. She has given me far more support, clarity, and life perspective than I could have ever asked for, and anyone fortunate enough to work with her will be in the best possible hands.”\n\n - Manasvi Sharma, PhD Applicant",
+        "x": 480.0,
+        "y": 111.4,
+        "width": 480.0,
+        "height": 187.6,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 24,
+    "shapes": [
+      {
+        "text": "1:1 Coaching Pathways",
+        "x": 67.7,
+        "y": 66.2,
+        "width": 816.5,
+        "height": 401.8,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 25,
+    "shapes": [
+      {
+        "text": "This work is direct, personalised, practical, and designed to integrate into everyday life. As a result of working with me, you can expect to:\nHave increased awareness of how pressure, overwhelm and stress show up and affect your health and wellbeing;\nHave more stable energy and feel more energised throughout the day;\nHave deeper sleep and wake up feeling rested and restored;\nOperate with improved focus low mental fog;\nBe able to bounce back from change or challenges with clarity and confidence;\nHave stronger problem-solving skills and a solutions-focussed mindset;\nManage your time efficiently so you have energy for things that truly matter.",
+        "x": 29.4,
+        "y": 41.6,
+        "width": 901.2,
+        "height": 247.2,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 26,
+    "shapes": [
+      {
+        "text": "Path 1: The FoundationTurn good intentions into lasting habits\nA focused, 4-session programme to help you make real, lasting change in one area of your health and wellbeing. This package runs for 6 weeks from the date of your first session. Any sessions not used in that time will expire. All sessions will take place online. \n\nWho it's forYou're clear on what you want to achieve, but life keeps getting in the way. With structure, support and regular check-ins, you'll stop starting over and finally follow through.\n\nWhat's included\n1 × 90-minute Health Audit - We get clear on where you are now, where you want to be, and what's been holding you back.\n3 × 50-minute coaching sessions - These are tailored to your goals, patterns and blocks, with a focus on one area: energy, sleep, stress, menopause wellbeing, or another area that matters to you.",
+        "x": 29.4,
+        "y": 41.6,
+        "width": 901.2,
+        "height": 356.2,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 27,
+    "shapes": [
+      {
+        "text": "Ongoing support and accountability. You get WhatsApp or email support Monday to Friday, with replies within 24 hours, for encouragement, check-ins and guidance between sessions, so you're never left guessing.\n\nYour outcomeYou'll leave with a clear, personalised plan, structure, accountability and confidence to keep going on your own.",
+        "x": 29.4,
+        "y": 41.6,
+        "width": 901.2,
+        "height": 138.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "30 mins. No pressure. Just clarity.",
+        "x": 30.2,
+        "y": 334.1,
+        "width": 232.6,
+        "height": 24.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "​\nBook Your Midlife \nRecharge Call",
+        "x": 30.4,
+        "y": 270.0,
+        "width": 248.3,
+        "height": 59.9,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 28,
+    "shapes": [
+      {
+        "text": "Path 2: The AcceleratorCreate real momentum\nA deeper 7-session coaching programme for lasting change in one area of your health and wellbeing, with extra tools, resources and support to keep you moving forward. \n\nThis package runs for 9 weeks from the date of your first session. Any sessions not used in that time will expire.\n\nWho it's forYou know something needs to change, but you're not sure where to start. You'd like clear information, structure and accountability to help you build momentum and keep it going.\n\nWhat's included\n1 × 90-minute Health Audit. We get clear on where you are now, where you want to be, and what's been holding you back.\n6 × 50-minute coaching sessions - These are tailored to your goals, patterns and blocks, focused on one area: energy, sleep, stress, menopause wellbeing (non-medical support), healthy weight and eating habits, or another related health area that matters to you.",
+        "x": 23.2,
+        "y": 9.2,
+        "width": 919.0,
+        "height": 399.9,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 29,
+    "shapes": [
+      {
+        "text": "Personalised nervous system regulation techniques - These are simple, practical tools matched to how you're feeling, to help you manage stress and feel calmer and more in control.\nPersonalised workbook and resources: Tools made for your one area of focus so you can keep building momentum between sessions.\nOngoing support and accountability. You get WhatsApp or email support Monday to Friday, with replies within 24 hours, for encouragement, check-ins and guidance whenever you need a boost.",
+        "x": 23.2,
+        "y": 9.2,
+        "width": 919.0,
+        "height": 138.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "30 mins. No pressure. Just clarity.",
+        "x": 30.2,
+        "y": 334.1,
+        "width": 232.6,
+        "height": 24.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "​\nBook Your Midlife \nRecharge Call",
+        "x": 30.4,
+        "y": 270.0,
+        "width": 248.3,
+        "height": 59.9,
+        "fill": "#C09E48"
+      },
+      {
+        "text": "Your outcome\nYou'll build real momentum, understand what works or doesn’t work for you and why, and leave with the habits, tools and confidence to sustain your progress long term.",
+        "x": 31.7,
+        "y": 168.2,
+        "width": 896.5,
+        "height": 94.5,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 30,
+    "shapes": [
+      {
+        "text": "30 mins. No pressure. Just clarity.",
+        "x": 30.2,
+        "y": 334.1,
+        "width": 232.6,
+        "height": 24.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "​\nBook Your Midlife \nRecharge Call",
+        "x": 30.4,
+        "y": 270.0,
+        "width": 248.3,
+        "height": 59.9,
+        "fill": "#C09E48"
+      },
+      {
+        "text": "Your outcome\nYou'll build real momentum, understand what works or doesn’t work for you and why, and leave with the habits, tools and confidence to sustain your progress long term.\n\nFollow up support\nOptional follow-up session (available at an additional cost): 1 x 20 min laser coaching session after your programme ends. This is to help you stay accountable and keep your progress on track for the long-term. Ask me for details.",
+        "x": 24.0,
+        "y": 17.8,
+        "width": 896.5,
+        "height": 203.6,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 31,
+    "shapes": [
+      {
+        "text": "Path 3: The MasteryTransform momentum into a way of life\nMy most comprehensive 10 session coaching programme, for deep, lasting change across two areas of your health and wellbeing, with premium tools and personalised resources to support you for the long term. \nThis package runs for 12 weeks from the date of your first session. Any sessions not used in that time will expire.\n\nWho it's forYou're ready for real, whole-life change, not a quick fix. You'd like in-depth support across two connected areas, such as sleep and stress or energy and menopause wellbeing, so healthy habits become part of who you are.\n\nWhat's included\n1 × 90-minute Health Audit - We get clear on where you are now, where you want to be, and what's been holding you back.\n9 × 50-minute coaching sessions. These are tailored to your goals, patterns and blocks across two areas: energy, sleep, stress, menopause wellbeing (non-medical support), healthy weight and eating habits, or other areas that matter to you.\n2 × 15-minute laser coaching sessions - These are quick, high-impact check-ins between sessions to fine-tune your plan, work through challenges and keep you on track.\nPersonalised nervous system regulation techniques - These are simple, practical tools matched to how you're feeling, to help you manage stress and feel calmer and more in control.\nPersonalised workbook and resources: Tools made for two area of focus so you can keep building momentum between sessions.\n2 personalised recorded meditations - Created just for you, to support relaxation, focus or sleep whenever you need them.",
+        "x": 27.5,
+        "y": 9.3,
+        "width": 905.0,
+        "height": 530.7,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 32,
+    "shapes": [
+      {
+        "text": "Ongoing support and accountability - You get WhatsApp or email support Monday to Friday, with replies within 24 hours, for encouragement, check-ins and guidance throughout.\n\nYour outcome\nYou'll make lasting changes in two key areas of your health, understand what works for your body and mind, and leave with a sustainable way of living you can carry forward with confidence.",
+        "x": 34.1,
+        "y": 15.0,
+        "width": 905.0,
+        "height": 159.9,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "30 mins. No pressure. Just clarity.",
+        "x": 30.2,
+        "y": 334.1,
+        "width": 232.6,
+        "height": 24.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "​\nBook Your Midlife \nRecharge Call",
+        "x": 30.4,
+        "y": 270.0,
+        "width": 248.3,
+        "height": 59.9,
+        "fill": "#65845A"
+      }
+    ]
+  },
+  {
+    "slide": 33,
+    "shapes": [
+      {
+        "text": "FAQs",
+        "x": 67.7,
+        "y": 66.2,
+        "width": 816.5,
+        "height": 401.8,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 34,
+    "shapes": [
+      {
+        "text": "Who is this for?\n\nMy coaching and mentoring programmes are built for ambitious, capable people who are performing below their potential - not through lack of talent or strategy, but because their body needs a different operating system in midlife. \n\nIn midlife, you need more energy, self-trust and internal capacity to handle the demands that are placed on you. You deserve to wake rested, have steady energy, and handle daily stressors without lowering your standards, slowing your ambition or limiting your dreams.\n\nIf you've read the books, tried the habits, followed the latest trends, but haven’t got the results you were after or can't seem to make the results stick – my personalised coaching programmes are for you.",
+        "x": 46.0,
+        "y": 108.1,
+        "width": 880.1,
+        "height": 269.0,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Everything else you need to know",
+        "x": 46.0,
+        "y": 41.5,
+        "width": 608.2,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Frequently Asked Questions",
+        "x": 46.0,
+        "y": 18.4,
+        "width": 608.2,
+        "height": 26.7,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 35,
+    "shapes": [
+      {
+        "text": "What is health, wellness and resilience coaching?\nA health coach is also a life coach, but focuses on helping you improve your health, nutrition and wellbeing. \nA resilience coach helps you build the mental and emotional strength to cope with and bounce back from uncertainty, challenges and change. \n\nMost coaches focus on one part of your life. A combination of  life, health and resilience coaching is unique and extremely powerful. I take a whole person approach because your energy, sleep, nutrition, stress, mindset and life direction are all connected. When one area is out of balance, all other areas feel the effects. \n\nThis joined-up and whole person approach is especially powerful in midlife, when your body, priorities and responsibilities are all shifting at once. \n\n\n\n(…continued on next slide)",
+        "x": 40.4,
+        "y": 44.2,
+        "width": 893.5,
+        "height": 342.5,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 36,
+    "shapes": [
+      {
+        "text": "What it is\n\nCollaborative partnership\nAn active partnership where you set the goals and direction. The coach holds space and reminds you of your strengths and capabilities.\n\nFuture focussed\nHelps you move forward with a practical plan and tools. There’s no dwelling on the past and that’s one way coaching is different from therapy.\n\nA realistic approach\nConsiders and accounts for your lifestyle, mindset, habits and barriers - not just the surface level facts.\n\nSolutions oriented\nFocusses on Specific, Measurable, Achievable, Realistic and Time-bound actions that create lasting change.",
+        "x": 20.5,
+        "y": 72.0,
+        "width": 416.7,
+        "height": 458.0,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "What it isn’t\n\n A guilt-tripping conversation\nThere isn’t any blaming, shaming or gaslighting. \nNor is it a gossip session or an offloading chat.\n\nOne way advice or ‘fixing’\nYou aren’t told what to do or handed a solution. There is nothing that needs ‘fixing’.\n\nA quick fix\nReal change takes time and consistency. There aren’t any instant solutions or approaches that work in silos.\n\nCrisis support or medical intervention\nNot suitable for urgent or severe mental or physical health conditions. Please seek help from your primary health care provider or other relevant support.",
+        "x": 483.0,
+        "y": 72.0,
+        "width": 416.7,
+        "height": 459.6,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 37,
+    "shapes": [
+      {
+        "text": "Why don’t you offer single session?\n\nBecause real transformation takes time. Long-term behavioural change happens through repetition and spaced reinforcement, not one-off breakthroughs.\n\nToo short → no real groundwork for long-term behavioural change\nToo long → loss of urgency, momentum and motivation\n\nEveryone’s health and wellbeing needs are different. This is why different time frames are needed to interrupt old beliefs, habits and behaviours, install new ones, and reinforce them until they become automatic.\n\nThink of it like planting a fruit tree in your garden. You don’t plant the seeds on Monday and expect results on Wednesday – You water and nourish the seed, a little each day, watch it blossom and yield fruits you can enjoy.",
+        "x": 33.4,
+        "y": 52.9,
+        "width": 905.8,
+        "height": 290.8,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 38,
+    "shapes": [
+      {
+        "text": "How much time do I need?\n\nWhile each pathway has a different duration, I offer access to be flexible around your time commitments. These programmes are built to fit into your life.\n\nOnboarding sessions (60-80 minutes)\nWeekly coaching sessions (50 minutes)\nDaily practises (depending on your personal goals 20-30 min)\n\nIt's roughly 3.0 - 3.5 hours a week - a similar amount of time you would spend watching TV or at the pub or at the gym.",
+        "x": 41.0,
+        "y": 54.8,
+        "width": 905.8,
+        "height": 247.2,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 39,
+    "shapes": [
+      {
+        "text": "How much does it cost?\n\nEveryone’s situation is different, so I don't offer a one-size-fits-all package. Instead, we'll start with a conversation in your free, no-obligation discovery call.\nYour Free Discovery Call\nIn this relaxed 30-minute call, we'll:\nTalk about what's going on for you right now \nExplore what you'd like to change and why it matters at this stage\nLook at whether coaching and my approach is the right fit for you\nGo through package options and fees, so you can select the option that suits you best\n\nPackages start from £450.00\n\nThe real cost isn't the coaching package you select. The real cost is staying in patterns where:\nDeep sleep remains out of reach and you don’t have energy, focus, concentration for everyday work and life.\nDisconnected fixes add to your costs (mental, energetic and financial) and don’t give you results you were after.\nRegular mid-afternoon energy crashes continue and lead to long-term metabolic health risks.\nYou feel older than you and don’t have the energy or vitality  to keep up with your loved ones.\nStress and overwhelm compound and your body goes into preservation mode rather than thrive. \nYour personal relationships and professional performance are diluted.\nOperating below your potential becomes the norm.",
+        "x": 36.5,
+        "y": 33.8,
+        "width": 903.9,
+        "height": 487.1,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 40,
+    "shapes": [
+      {
+        "text": "I've never tried coaching before. What does it include?\n\nNo problem! Coaching is a collaborative partnership between a coach (me) and a coachee (you). \n\nA trained coach uses evidence-informed knowledge and a wide range of skills, strategies and tools to create a safe, supportive space for self-discovery, clarity to create goals and the structure and accountability to make sure you follow through on your commitments.  \n\n\nMy role is to:\nTo create a safe, non-judgemental space to explore, embrace self-discovery.\nProvide relevant information/resources, structure and accountability that will help you follow through and achieve your gaols. \nWhere relevant and necessary, challenge you to find new or more helpful perspectives.\n\n\nYour role is to: \nOwn your goal(s) and take responsibility and accountability for the change you want to have in your life. \nTaks action between sessions. This means trying new habits and reflecting on how they went.\nFeeding back to me what is or isn't working, so the coaching can be adjusted.",
+        "x": 42.0,
+        "y": 26.4,
+        "width": 876.1,
+        "height": 443.5,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 41,
+    "shapes": [
+      {
+        "text": "As my health coach, will you tell me what I should do?\n\nCoaching is a collaborative partnership rather than an expert/client dynamic. As your coach and mentor, I will offer information and resources, where relevant and needed, but you have the final say on how you use the information and resources to move you towards your goals.",
+        "x": 42.0,
+        "y": 26.4,
+        "width": 876.1,
+        "height": 116.3,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 42,
+    "shapes": [
+      {
+        "text": "What if I've tried coaching work before?\n\nThat’s great! That usually means:\nYou understand the concepts in principle\nBut the principles haven't stuck\n\nThis programme exists for exactly that gap. This is not generic coaching – this is transformational coaching that is personalised to meet you where you are and consider your specific health, wellness and resilience goals.",
+        "x": 46.7,
+        "y": 61.4,
+        "width": 876.1,
+        "height": 181.8,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 43,
+    "shapes": [
+      {
+        "text": "What happens after the coaching programme ends?\n\nAfter the programme ends, you’ll have:\nInstalled helpful and supportive mental patterns\nEvidence-based knowledge and practical tools to reinforce them\nA system supported by resources that you can continue using independently\n\nYou can choose to continue fine-tuning your current life, health and wellness goals, or be supported on something new. Every one’s journey is different, and we’ll have time to have this chat before you end the programme.",
+        "x": 46.7,
+        "y": 61.4,
+        "width": 876.1,
+        "height": 247.2,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 44,
+    "shapes": [
+      {
+        "text": "Workplace Wellbeing",
+        "x": 67.7,
+        "y": 66.2,
+        "width": 816.5,
+        "height": 401.8,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 45,
+    "shapes": [
+      {
+        "text": "Here’s How It Works",
+        "x": 33.8,
+        "y": 37.5,
+        "width": 894.2,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Landing Page – S3",
+        "x": 10.0,
+        "y": 5.4,
+        "width": 157.0,
+        "height": 24.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Discovery and Consultation \nTo discuss a tailored health, wellness and resilience offer for your organisation, send me an email - hello@chunmunkamal.com We begin with a conversation to understand your organisation’s goals, challenges, and wellbeing priorities.",
+        "x": 160.4,
+        "y": 85.4,
+        "width": 760.8,
+        "height": 116.3,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Tailored Wellbeing Talks and Events Based on your needs, we design a customised wellbeing talk or workshop that aligns with your workplace culture, audience, and desired outcomes. I deliver an interactive and engaging session online or in person, creating a safe and supportive space for learning, reflection, and practical takeaways",
+        "x": 160.4,
+        "y": 199.2,
+        "width": 760.8,
+        "height": 138.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Ongoing Support and FeedbackAfter the session, we gather feedback and provide follow-up resources, recommendations, or additional wellbeing support to help maintain long-term impact.",
+        "x": 160.4,
+        "y": 334.2,
+        "width": 760.8,
+        "height": 72.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "​\nWorkplace Wellbeing\nDiscovery Call",
+        "x": 383.6,
+        "y": 271.9,
+        "width": 248.3,
+        "height": 77.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Bespoke Training. Let’s chat.",
+        "x": 403.6,
+        "y": 351.8,
+        "width": 212.6,
+        "height": 24.2,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 46,
+    "shapes": [
+      {
+        "text": "Case Studies",
+        "x": 67.7,
+        "y": 66.2,
+        "width": 816.5,
+        "height": 401.8,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 47,
+    "shapes": [
+      {
+        "text": "What we worked on?\nIdentifying the root causes of the chronic stress. \nHabit stacking to simplify evening routine.\nGentle practises to lower cortisol (stress hormone) and regulate the nervous system.\nIntroducing a balancing blood sugar balancing diet and making realistic swaps for every day demanding schedule.\nIncluding small and sustainable lifestyle changes to support nutritional needs, sleep, stress management and recovery.",
+        "x": 38.6,
+        "y": 94.2,
+        "width": 878.7,
+        "height": 155.9,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Case Study #1\nReasons for health and wellness coaching: Chronic Stress and Nutritional Imbalance",
+        "x": 38.6,
+        "y": 40.1,
+        "width": 817.7,
+        "height": 46.0,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "The results in their words\n\n​“When I first spoke to Chunmun, I was exhausted, overwhelmed, and had stress that felt completely unmanageable. The heavy burden I used to carry is gone, replaced by vitality and peace of mind.\n\nWhat sets her apart is her absolute, unwavering dedication. She didn't just skim the surface or hand me a generic plan but took the time to genuinely dig deep and understand the root of my problems.”\n\nTo anyone who is struggling, feeling stuck, or searching for answers, do yourself a favour and trust her with your journey. She is an exceptional coach, a beautiful soul, and I am profoundly thankful for the immense difference she has made in my life.”\n\n– Lance Rodrigues, Defence Forces",
+        "x": 38.6,
+        "y": 259.7,
+        "width": 878.7,
+        "height": 269.3,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 48,
+    "shapes": [
+      {
+        "text": "What we worked on?\nBreath work practises to reduce overwhelm and manage stress and recovery. \nIdentifying the root causes of the chronic stress and sleep disruption. \nProgressive inclusion of movement to support recovery, energy and overall wellbeing.\nClarifying personal values to reduce friction with health, career and life goals.",
+        "x": 38.6,
+        "y": 100.9,
+        "width": 878.7,
+        "height": 155.9,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Case Study #2 \nReasons for health and wellness coaching: Stress Management, Disruptive sleep pattern caused by work, Tired, Lacking energy , Impact of allergies on overall health and quality of life.",
+        "x": 30.9,
+        "y": 24.7,
+        "width": 915.4,
+        "height": 73.5,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "The results in their words\n\n“I dropped one dress size. Coaching helped me bring my goals in line with my values. I now have the tools to manage myself emotionally and mentally. The experience of partnership in my personal wellness goals, the gift of clarity of my own values, being listened to without judgment and getting practical feedback have been important benefits. \n\nI have been fortunate to have a brilliant coach who offered high-quality coaching and whom I felt has always been in my corner. I am grateful for the opportunity of having this coaching relationship.”\n– Surinder Kaur-Sohanpal, Social Worker",
+        "x": 38.6,
+        "y": 265.6,
+        "width": 878.7,
+        "height": 269.3,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 49,
+    "shapes": [
+      {
+        "text": "What we worked on?\nIdentifying the root causes of the chronic stress and sleep disruption. \nIntroducing blood sugar balance diet to tackle stress, gut issues and sugar cravings\nBreath work practises to reduce overwhelm and manage stress and recovery. \nNight-time routine and relaxation techniques for longer and deeper sleep. \nClarifying personal values to reduce friction with health, career and life goals.",
+        "x": 38.6,
+        "y": 99.2,
+        "width": 878.7,
+        "height": 155.9,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Case Study #3 \nReasons for health and wellness coaching: Improving duration and quality of sleep , Stress Management, Gut issues and inflammation, Sugar cravings, Improving hair and skin.",
+        "x": 30.9,
+        "y": 24.7,
+        "width": 915.4,
+        "height": 73.5,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "The results in their words\n\n“ I’m so grateful for all the support and encouragement I’ve received throughout the coaching journey. \n\nFrom the very beginning, I felt listened to, understood, and motivated. The sessions were enjoyable, informative, and tailored to my needs. I’ve learned so much about improving my health in a way that feels realistic and sustainable. Thanks to the guidance and support I received, I’ve made positive changes that have genuinely improved my overall health and wellbeing.\n\nI would highly recommend Chunmun to anyone looking for a knowledgeable, compassionate, and supportive health coach. Thank you for making such a positive difference to my health and helping me build healthier habits that I can continue with.’”\n\n– Amelia Ivory, Senior Hair Educator",
+        "x": 38.6,
+        "y": 263.9,
+        "width": 878.7,
+        "height": 269.3,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 50,
+    "shapes": [
+      {
+        "text": "What we worked on?\nMindset and learned behaviours contributing to overwhelm, stress and burnout \nBreath work practises to reduce overwhelm and manage stress and recovery. \nCarving time for self-care and recovery.",
+        "x": 38.6,
+        "y": 80.4,
+        "width": 878.7,
+        "height": 155.9,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Case Study #4\nReasons for health and wellness coaching: Stress Management, Burnout, Sleep, Nutrition, Rest and Recovery",
+        "x": 30.9,
+        "y": 17.9,
+        "width": 915.4,
+        "height": 54.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "The results in their words\n\n“I wanted to try coaching having now been in a period of my life where I had been off work with stress. Chunmun gave me a safe space to discuss what changes I needed to make and importantly the timescales I could do them in. Having accountability for these actions helped me, as made me more willing to try these new approaches for example in improving my diet, getting more rest and having more exercise so to prevent future burnout. \n\nAs the sessions progressed, I started to recognise the patterns of learned behaviour and cycles that I needed to change. I was given the opportunity to do this in bite sized realistic chunks which I did find useful. \n\nI would recommend Chunmun as a person who is good at drawing out patterns of behaviour and providing realistic support techniques to make improvements.” \n\n– Eloise Harris, Change and Adoption Lead",
+        "x": 38.6,
+        "y": 246.5,
+        "width": 878.7,
+        "height": 297.6,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 51,
+    "shapes": [
+      {
+        "text": "What we worked on?\nMindset and learned behaviours getting in the way of a long-term lifestyle change to reduce daily alcohol intake.\nUnderstanding the impact of alcohol on the body, sleep, recovery and hormones.\nRelaxation techniques for longer and deeper sleep. \nRe-balancing the diet to reduce mind-afternoon energy slumps and increase quality of night sleep. \nSetting and maintaining healthy boundaries.",
+        "x": 40.6,
+        "y": 89.0,
+        "width": 878.7,
+        "height": 155.9,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Case Study #5 \nReasons for health and wellness coaching: Post-menopausal changes affecting sleep, Alcohol intake reduction, Mid-day energy slumps",
+        "x": 30.9,
+        "y": 9.3,
+        "width": 915.4,
+        "height": 73.5,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "The results in their words\n\n“ My sleep has improved and I found the progressive muscle relaxation method useful.\n\nI’ve reduced my alcohol intake this is something I’ve been working on for a while. Chunmun’s coaching has really helped me implement changes I’ve wanted to make for ages but wasn’t able to do on my own. Now I feel confident I can continue with the changes going forward.\n \nI’ve become more assertive and feel in a better position to say no when previously would have said yes just to please other people.”\n\n – Debbie Ivory, Retiree",
+        "x": 40.6,
+        "y": 253.7,
+        "width": 878.7,
+        "height": 269.3,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 52,
+    "shapes": [
+      {
+        "text": "What we worked on?\nMindset and learned behavioural patterns getting in the way personal and career development.\nUnderstanding the impact of stress on sleep, recovery and mental health.\nRelaxation and breath work techniques for nervous system regulation. \nBlood sugar balanced diet to improve energy, sleep and physical stamina. Preference for vegetarian meals was key. \nCarving time away from academic demands and for self-care and recovery. \nFinding the right medical support for health concerns.",
+        "x": 40.6,
+        "y": 89.0,
+        "width": 878.7,
+        "height": 155.9,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Case Study #5 \nReasons for health and wellness coaching: Stress management, Low energy, Becoming a better version of self for career opportunities",
+        "x": 30.9,
+        "y": 9.3,
+        "width": 915.4,
+        "height": 73.5,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "The results in their words\n\n“ Chunmun created an extraordinarily safe, non-judgmental space where I could bring forward anything . \nShe never treated nutrition in isolation; she seamlessly helped me connect my physical health with my emotional well-being. She helped me identify where I needed to improve, guided me to learn from setbacks, and fundamentally shifted my perspective so that I could view challenges through a much broader, healthier lens. Healthy eating is no longer an effort it has transitioned into an automatic daily habit. More importantly, I now observe and understand my body’s signals much better, and I have cultivated a healthy routine of rewarding myself with things that bring me joy “\n\n – Manasvi Sharma, PhD Applicant",
+        "x": 40.6,
+        "y": 253.7,
+        "width": 878.7,
+        "height": 269.3,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 53,
+    "shapes": [
+      {
+        "text": "About Me",
+        "x": 67.7,
+        "y": 66.2,
+        "width": 816.5,
+        "height": 401.8,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 54,
+    "shapes": [
+      {
+        "text": "About Me - 1",
+        "x": 40.9,
+        "y": 15.5,
+        "width": 157.0,
+        "height": 24.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Hi! I’m Chunmun and I’m a Holistic Health, Wellness and Resilience Coach who is obsessed with an integrated approach to health and wellbeing.  \n\nI didn’t become a coach because it sounded appealing. I became a coach because I experienced first what happens when you ignore the signals that a body that is breaking down sends. I also experienced the power of having someone’s undivided attention and support to regain my health, confidence and capacity to overcome life’s hurdles and challenges.\n\nMy interest in personal development, psychology, mental wellbeing, and resilience began during an intense 5 -year period of, back‑to‑back midlife changes that led to health issues and eventually, burnout. Along the way, my body kept signalling that I something wasn’t right. Sometimes, I didn't understand the signals. At other times, I ignored them. \n  \nMy body forced me to slow down and care for myself. Now, as a Health, Wellness and Resilience Coach, I use my lived experience and knowledge to help individuals in midlife have more energy, vitality and capacity for change.",
+        "x": 28.2,
+        "y": 68.7,
+        "width": 903.7,
+        "height": 334.4,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 55,
+    "shapes": [
+      {
+        "text": "About Me - 2",
+        "x": 40.9,
+        "y": 15.5,
+        "width": 157.0,
+        "height": 24.2,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Education\nI hold a bachelor’s degree in Physics, a Masters in Social Work, a Masters in Business Administration and Diploma in Digital Learning Design. \n\nMy education and professional experiences shape my coaching approach, combining knowledge from different disciplines along with the wisdom of my Indian heritage.",
+        "x": 33.8,
+        "y": 63.6,
+        "width": 354.2,
+        "height": 242.7,
+        "fill": [
+          246,
+          246,
+          246
+        ]
+      },
+      {
+        "text": "My Coaching Path And Credentials",
+        "x": 33.8,
+        "y": 16.6,
+        "width": 894.2,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Coaching \nDiploma in Health and Wellness Coaching (In-Progress), UK, 2025 - 2026; PCI Certified. \nCertified Menopause Coach, 2025\nResilience Coaching, 2021",
+        "x": 33.8,
+        "y": 316.9,
+        "width": 354.2,
+        "height": 173.8,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Mindfulness, Nervous System Regulation, Yoga\nNervous System Regulation (NSR) Practitioner Kit 2025/6 \nMindfulness-Based Stress Reduction (MBSR) Diploma, 2019\nRYT 200 Hours International Yoga Teachers Training including Yogic breathwork, Mudras, Mantras, Meditation and the Bhagavad Geeta, India, 2018\nReiki, Level and 2, 2015",
+        "x": 495.5,
+        "y": 63.6,
+        "width": 354.2,
+        "height": 242.7,
+        "fill": [
+          246,
+          246,
+          246
+        ]
+      },
+      {
+        "text": "Diet\nDiet Specialist Nutrition Course – Levels 3 and 4 – AfN Certified Course, 2018",
+        "x": 495.5,
+        "y": 316.9,
+        "width": 354.2,
+        "height": 173.8,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 56,
+    "shapes": [
+      {
+        "text": "Logo 1",
+        "x": 11.1,
+        "y": 98.7,
+        "width": 293.6,
+        "height": 189.3,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Professional Memberships and Associations",
+        "x": 121.3,
+        "y": 44.1,
+        "width": 737.7,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Logo 1",
+        "x": 327.0,
+        "y": 98.7,
+        "width": 293.6,
+        "height": 189.3,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Logo 1",
+        "x": 655.3,
+        "y": 98.7,
+        "width": 293.6,
+        "height": 189.3,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 57,
+    "shapes": [
+      {
+        "text": "My fuels \nWater and Masala Chai - I can’t do without both! Everything’s better when there’s a tall glass of water & a big mug of piping hot tea around.",
+        "x": 18.5,
+        "y": 238.1,
+        "width": 293.6,
+        "height": 189.3,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "A Little More About Me",
+        "x": -71.3,
+        "y": 21.9,
+        "width": 457.6,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Movement \nSome form of movement while listening to a podcast or some peppy music. It keeps my mind de-cluttered, my body & keep my soul nourished.",
+        "x": 327.0,
+        "y": 238.1,
+        "width": 293.6,
+        "height": 189.3,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Morning Must-Haves\nAn ayurvedic concoction to wake up my digestion followed by meditation & journaling to ground my energy. Early morning self-care is non-negotiable.",
+        "x": 650.4,
+        "y": 240.1,
+        "width": 293.6,
+        "height": 189.3,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Photo Placeholder",
+        "x": 86.6,
+        "y": 83.1,
+        "width": 141.7,
+        "height": 141.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Photo Placeholder",
+        "x": 402.9,
+        "y": 83.1,
+        "width": 141.7,
+        "height": 141.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Photo Placeholder",
+        "x": 726.3,
+        "y": 74.6,
+        "width": 141.7,
+        "height": 141.7,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 58,
+    "shapes": [
+      {
+        "text": "Book Your Midlife Recharge Call",
+        "x": 67.7,
+        "y": 66.2,
+        "width": 816.5,
+        "height": 401.8,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 59,
+    "shapes": [
+      {
+        "text": "Ready to take the first step?",
+        "x": 35.2,
+        "y": 29.1,
+        "width": 889.6,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "I’d love to help you with your health and wellbeing goals. Book your free 30 minute - Midlife Recharge Call\n\nWe’ll identify what’s draining your energy, disrupting your sleep and driving your stress.",
+        "x": 35.2,
+        "y": 72.2,
+        "width": 903.7,
+        "height": 94.5,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "​\nCalendly  Link",
+        "x": 50.9,
+        "y": 196.4,
+        "width": 248.3,
+        "height": 59.9,
+        "fill": "#212D53"
+      },
+      {
+        "text": "https://calendly.com/hello-chunmunkamal/30min",
+        "x": 50.9,
+        "y": 281.3,
+        "width": 479.9,
+        "height": 29.1,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https://calendly.com/hello-chunmunkamal/30min\" style=\"min-width:320px;height:700px;\"></div>\n<script type=\"text/javascript\" src=\"https://assets.calendly.com/assets/external/widget.js\" async></script>\n<!-- Calendly inline widget end -->",
+        "x": 50.9,
+        "y": 335.5,
+        "width": 811.3,
+        "height": 138.1,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 60,
+    "shapes": [
+      {
+        "text": "Leave this 30 min call with more:",
+        "x": -13.5,
+        "y": 21.9,
+        "width": 457.6,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Photo/icon Placeholder",
+        "x": 72.2,
+        "y": 83.1,
+        "width": 141.7,
+        "height": 141.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Phot/icon Placeholder",
+        "x": 402.9,
+        "y": 83.1,
+        "width": 141.7,
+        "height": 141.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Phot/icon Placeholder",
+        "x": 726.3,
+        "y": 74.6,
+        "width": 141.7,
+        "height": 141.7,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Clarity  \n You’ll understand the connection between energy, sleep and stress.",
+        "x": 25.4,
+        "y": 260.8,
+        "width": 235.4,
+        "height": 84.8,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Compassion \nYou’ll understand how  your body needs a different kind of support.",
+        "x": 365.8,
+        "y": 263.0,
+        "width": 216.0,
+        "height": 84.8,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Confidence\nYou’ll leave with one clear next step that you can start implementing right away",
+        "x": 699.3,
+        "y": 260.8,
+        "width": 202.6,
+        "height": 84.8,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 61,
+    "shapes": [
+      {
+        "text": "First name (required) \t\tLast name (required)\n\nMobile phone (required)\n\nEmail (required)\n\nHow did you hear about me (free text) ?\n\nWhich programme are you interested in? (Drop down options: The Foundation, The Accelerator, The Mastery; Workplace Wellbeing )\n\n\nYour message (free text)",
+        "x": 21.2,
+        "y": 141.5,
+        "width": 917.5,
+        "height": 290.8,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "Prefer to email?",
+        "x": 50.9,
+        "y": 15.8,
+        "width": 759.1,
+        "height": 60.6,
+        "fill": "#f6f6f6"
+      },
+      {
+        "text": "​\nSubmit Responses",
+        "x": 32.6,
+        "y": 453.0,
+        "width": 248.3,
+        "height": 59.9,
+        "fill": "#212D53"
+      },
+      {
+        "text": "If you have any questions or concerns, please don’t hesitate to reach out. You can also email  me at hello@chunmunkamal.com",
+        "x": 21.2,
+        "y": 70.0,
+        "width": 924.4,
+        "height": 50.9,
+        "fill": "#f6f6f6"
+      }
+    ]
+  },
+  {
+    "slide": 62,
+    "shapes": [
+      {
+        "text": "Blog",
+        "x": 67.7,
+        "y": 66.2,
+        "width": 816.5,
+        "height": 401.8,
+        "fill": "#212D53"
+      }
+    ]
+  },
+  {
+    "slide": 63,
+    "shapes": [
+      {
+        "text": "Copy over the blog entry on stress",
+        "x": 22.4,
+        "y": 102.7,
+        "width": 457.6,
+        "height": 36.4,
+        "fill": "#f6f6f6"
+      }
+    ]
+  }
+]

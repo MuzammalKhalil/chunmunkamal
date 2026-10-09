@@ -11,6 +11,7 @@ reference-site.html
 # Local image inspection sheets
 assets/contact-sheet.jpg
 assets/all-photos.jpg
+preview/deck/
 
 # Local environment configuration
 .env

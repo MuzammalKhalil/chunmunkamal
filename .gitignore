@@ -1,0 +1,18 @@
+# Generated archives and local Python caches
+*.zip
+__pycache__/
+*.py[cod]
+.venv/
+
+# Superseded build and downloaded reference page
+build-previous.py
+reference-site.html
+
+# Local image inspection sheets
+assets/contact-sheet.jpg
+assets/all-photos.jpg
+
+# Local environment configuration
+.env
+.env.*
+!.env.example

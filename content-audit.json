@@ -1,0 +1,5493 @@
+{
+  "slide_count": 63,
+  "source": "C:\\Users\\USER\\Downloads\\Chunmun_Kamal_Coaching__Midlife_v2.1.pptx",
+  "policy": "Verbatim copy; authored spelling and punctuation preserved. Only layout whitespace changes. Design notes, placeholders and integration code are not public prose. Exact duplicates consolidated and documented.",
+  "blocks": [
+    {
+      "slide": 1,
+      "block": 0,
+      "text": "Colours",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 1,
+      "block": 1,
+      "text": "Banner/Blue Box (Dark Blue) - #212D53",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 1,
+      "block": 2,
+      "text": "Text (Black) - #030303",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 1,
+      "block": 3,
+      "text": "#4E4D5F",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 1,
+      "block": 4,
+      "text": "#C6786D",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 1,
+      "block": 5,
+      "text": "#CFA877",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 1,
+      "block": 6,
+      "text": "#65845A",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 1,
+      "block": 7,
+      "text": "#212D53",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 2,
+      "block": 0,
+      "text": "Logo",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 2,
+      "block": 1,
+      "text": "You have the logo – I’m mainly going to use the black, white or transparent version of it.",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 3,
+      "block": 0,
+      "text": "Icons/Photos",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 3,
+      "block": 1,
+      "text": "The icons currently used are standard Microsoft PowerPoint icons.",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 3,
+      "block": 2,
+      "text": "Please source and use icons or images that are more relevant to the topic and in keeping with the brand.",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "block": 0,
+      "text": "Website layout/flow – similar designs",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "block": 1,
+      "text": "I’ve written the content to flow in a specific way…these websites will give you a feel of the layout",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "block": 2,
+      "text": "https://www.heidiallsopcoaching.com/",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "block": 3,
+      "text": "https://andreagiles.com/",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 4,
+      "block": 4,
+      "text": "https://susanfilan.com/",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 5,
+      "block": 0,
+      "text": "Fonts",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 5,
+      "block": 1,
+      "text": "I quite like the fonts used on this site -  https://www.heidiallsopcoaching.com/ and https://susanfilan.com/",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Design guidance reviewed: colours, black logo, imagery, reference layout and fonts"
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 0,
+      "text": "Logo",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Logo placement; existing black logo used"
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 14,
+      "text": "​",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Empty formatting paragraph"
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 16,
+      "text": "My photo placeholder",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Visual placeholder implemented as imagery or page layout"
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 1,
+      "text": "Midlife Health, Wellness and Resilience Coach",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 10,
+      "text": "Sleep deeply. Feel energised. Stay calm under pressure.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 2,
+      "text": "Personalised coaching for busy midlife professionals who want more restful sleep, steady energy and faster recovery from stress, without complicated routines, extreme diets or one-size-fits-all advice.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 11,
+      "text": "Book Your Midlife",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 12,
+      "text": "Recharge Call",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 3,
+      "text": "“I’ve learned so much about improving my health and wellbeing in a way that’s realistic and sustainable.” - Amelia Ivory",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 15,
+      "text": "Take  the free Midlife Energy, Sleep and Resilience Quiz",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 13,
+      "text": "I respect your inbox - No spam",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 0,
+      "text": "Many individuals and teams I work with are ambitious, on the go and used to pushing through.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 1,
+      "text": "On the surface, the story is of effortless execution. But underneath, their body is telling another story - one of overwhelm, exhaustion and overstimulation.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 2,
+      "text": "In midlife, you need more steady energy, self-trust and internal capacity to handle the demands that are placed on you. You deserve to wake rested, have stable energy throughout the day, and handle daily stressors without lowering your standards, slowing your ambition or limiting your dreams.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 3,
+      "text": "It’s time to find out what’s really draining your energy, disrupting your sleep and driving your stress.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 4,
+      "text": "Discover Your Root Cause. Rebuild Your Rhythm. Strengthen Your Resilience.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 14,
+      "text": "Two ways to work with me",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 7,
+      "text": "1:1 Coaching",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 8,
+      "text": "Book Your Midlife",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 9,
+      "text": "Recharge Call",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 5,
+      "text": "30 mins. No pressure. Just clarity.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 11,
+      "text": "Workplace Wellbeing",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 12,
+      "text": "Discovery Call",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 13,
+      "text": "Bespoke Programmes. Let’s chat.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 6,
+      "text": "​",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Empty formatting paragraph"
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 10,
+      "text": "​",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Empty formatting paragraph"
+        }
+      ]
+    },
+    {
+      "slide": 7,
+      "block": 15,
+      "text": "Health and Wellness Coach (final stage of certification), Certified Menopause Coach, Resilience Coach, Personalised Care Institute Practitioner, Yoga and Breath Work Practioner, Mindful-Based Stress Reduction Practitioner, Reiki Practitioner (Level 2)",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 4,
+      "text": "About Me",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 7,
+      "text": "1:1 Coaching",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 9,
+      "text": "Workplace Wellbeing",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 5,
+      "text": "Case Studies",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 6,
+      "text": "Blog",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 6,
+      "block": 8,
+      "text": "Contact",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 8,
+      "block": 0,
+      "text": "1:1 Coaching",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 18,
+      "text": "What’s your midlife health costing you?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 1,
+      "text": "– The Executive",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 3,
+      "text": "– The Business Owner",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 5,
+      "text": "– The Professional",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 6,
+      "text": "You’re an executive, a business owner or a busy professional who is constantly on the go, taking risks and achieving results.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 7,
+      "text": "You want to continue performing at your best, but you’ve hit midlife. The toll of the long work hours, eating on the go, juggling several personal and professional responsibilities, hormonal changes in the body, and the daily strain of high-pressure decisions has started to show.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 17,
+      "text": "Are you struggling with:",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 8,
+      "text": "Sleep - Waking up between 2-4 am and lying there, wide awake?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 9,
+      "text": "Energy - Low energy and stamina, unable to keep up with your kids or grand kids?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 10,
+      "text": "Weight - It creeps up no matter what you eat or how you move?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 11,
+      "text": "Menopausal symptoms - Hot flushes, night sweats, or forgetting things?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 12,
+      "text": "Eating \"well\" - But still feeling lethargic and unable to concentrate?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 13,
+      "text": "Mid-afternoon energy slumps - Rescued by sugar, caffeine or nicotine?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 14,
+      "text": "Aches and pains - That flare up when you're overwhelmed or stressed?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 15,
+      "text": "Unsteady mood - On a short fuse snapping at your colleagues, partner or kids?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 16,
+      "text": "Stress - The pressure never seems to fade or you’re close to burning out?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 0,
+      "text": "Phot/Icon placeholder",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Visual placeholder implemented as imagery or page layout"
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 2,
+      "text": "Phot/Icon placeholder",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Visual placeholder implemented as imagery or page layout"
+        }
+      ]
+    },
+    {
+      "slide": 9,
+      "block": 4,
+      "text": "Phot/Icon placeholder",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Visual placeholder implemented as imagery or page layout"
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "block": 1,
+      "text": "Correct the pattern. End the struggle. Take back control.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "block": 0,
+      "text": "You've tried the obvious fixes - followed the trending diet or fitness fad, read the latest book, watched a podcast, tried a new supplement, or pushed yourself even harder. \n\nSome of the fixes helped, but none brought the results you were after.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "block": 2,
+      "text": "When your mind, body, and nervous system are constantly stretched beyond their capacity, high-performance drops and good health feels out of reach.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "block": 3,
+      "text": "That’s because your struggles aren’t separate problems, but parts of an inter-connected pattern.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "block": 4,
+      "text": "30 mins. No pressure. Just clarity.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "block": 5,
+      "text": "​",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Empty formatting paragraph"
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "block": 6,
+      "text": "Book Your Midlife",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 10,
+      "block": 7,
+      "text": "Recharge Call",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 11,
+      "block": 0,
+      "text": "I get it. I know how frustrating it is to try out different things but still feel like deep sleep, stable energy and a calm mind are out of reach.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 11,
+      "block": 1,
+      "text": "You’re not lazy.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 11,
+      "block": 2,
+      "text": "Your body isn’t broken.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 11,
+      "block": 3,
+      "text": "You’re not losing your mind.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 11,
+      "block": 4,
+      "text": "You’re in a different stage of life and your body needs a different kind of support. That's why, as a certified health, wellness and resilience coach and mid-lifer who recovered from burnout, I've made it my mission to help busy high-performers in demanding roles just like you get the help you need to feel energised, stable and strong - from the inside out. \n\nTogether we'll untangle the patterns that are holding you back. We’ll use a blend of evidence-based information, mindset change, and nervous system regulating practises, to make simple and sustainable lifestyle upgrades, so you can finally start to work with your body rather than against it.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 16,
+      "text": "The Transformation",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 0,
+      "text": "What happens when you have me by your side",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 15,
+      "text": "Using my signature framework, we’ll correct the pattern, end the struggle and take back control.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 3,
+      "text": "Discover your unique root cause  Get clear on what is draining your energy, disrupting your sleep and adding to your stress—so you can address the root causes and make changes that last.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 1,
+      "text": "Nutrition that truly nourishes",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 2,
+      "text": "As a busy professional, your nutrition needs to match your schedule. Adjust your balance of protein, carbs and fats—and choose foods that fit your weekly schedule and energy needs. No more mid-afternoon energy crashes.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 4,
+      "text": "Clarity and Confidence",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 5,
+      "text": "Structured support and accountability to turn what you learn into confident application. Get proven methods and support to trust yourself, build confidence and cope any change or challenge.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 6,
+      "text": "Nervous System(NS) Regulation",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 7,
+      "text": "Your nervous system sets the tone for how you show up.  When you feel calm and grounded, your energy often helps others feel calmer too. Recover faster from hard days with tools that you can use anywhere, anytime.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 8,
+      "text": "Master your mindset",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 9,
+      "text": "Understand how your thoughts, beliefs and behaviours shape your daily choices and results—so you can make deeper and lasting changes.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 12,
+      "text": "A whole person approach",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 13,
+      "text": "Understand how sleep, energy, nutrition and your nervous system are connected—so you can make simple, lasting changes that support your wellbeing from more than one angle.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 10,
+      "text": "Discover Your Root Cause.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 11,
+      "text": "Rebuild Your Rhythm.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 12,
+      "block": 14,
+      "text": "Strengthen Your Resilience.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 13,
+      "block": 7,
+      "text": "What makes my approach unique",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 13,
+      "block": 0,
+      "text": "Mindset audit",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 13,
+      "block": 1,
+      "text": "You take stock of your beliefs, values, behaviours, levels of self-efficacy, self-esteem and motivation. Shortcuts fail because the internal dialogue doesn’t change.  True transformation sticks when the unconscious becomes conscious – there’s no going back to unhealthy patterns once you see them.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 13,
+      "block": 2,
+      "text": "You’re in the driving seat - always",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 13,
+      "block": 3,
+      "text": "You know your life and routine better than anyone else. I help you cut through the noise, get radically honest with yourself, provide you the information and tools to help you make smart choices that get you deep sleep, stable energy, and quick recovery.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 13,
+      "block": 4,
+      "text": "Simple, high-impact strategies and a clear plan",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 13,
+      "block": 5,
+      "text": "No complex homework—just practical approaches that create immediate shifts without adding more to your plate. You walk away with a personalized roadmap that eliminates guesswork and builds lasting confidence in everyday decisions.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 13,
+      "block": 6,
+      "text": "My photo placeholder",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Visual placeholder implemented as imagery or page layout"
+        }
+      ]
+    },
+    {
+      "slide": 14,
+      "block": 0,
+      "text": "Structure, accountability and iteration",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 14,
+      "block": 1,
+      "text": "In partnership, the personalized plan is adjusted as your life and workload change. Every coaching session includes relevant education, a clear structure, and serious accountability so you bridge the gap between knowing and doing. This isn’t about shortcuts or seasonal change; it's about building a lifestyle that works for you, 365 days.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 14,
+      "block": 2,
+      "text": "I’ve experienced burnout",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 14,
+      "block": 3,
+      "text": "I understand what overwhelm, stress and burnout feel like. I know what it takes to disconnect from unhelpful beliefs, behaviours and habits, and nourish the mind, body and spirit.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 14,
+      "block": 4,
+      "text": "My photo placeholder",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Visual placeholder implemented as imagery or page layout"
+        }
+      ]
+    },
+    {
+      "slide": 15,
+      "block": 0,
+      "text": "1200+ Hours Learning",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 15,
+      "block": 1,
+      "text": "200+ Hours of Coaching Experience",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 15,
+      "block": 2,
+      "text": "Blend of Evidence Based Strategies and Modalities Used",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 15,
+      "block": 3,
+      "text": "Compassionate,  Realistic and Transformational Support",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "block": 0,
+      "text": "What happens when you don’t break the loop….",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "block": 1,
+      "text": "When you don’t listen to your body, it forces you to",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "block": 2,
+      "text": "Delaying help",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "block": 3,
+      "text": "Deep sleep remains out of reach",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "block": 4,
+      "text": "High stress, poor sleep and imbalanced nutrition can keep feeding into each other—leaving you caught in a never-ending cycle of exhaustion. Your energy, focus, concentration and productivity can suffer.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "block": 5,
+      "text": "Regular afternoon energy crashes can make it easier to rely on sugar, caffeine or quick-fix foods. Over time, this pattern may make it harder to support steady blood sugar and long-term metabolic health.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "block": 6,
+      "text": "Stress and overwhelm compound",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "block": 7,
+      "text": "Without enough recovery, everyday pressures can start to feel overwhelming. Ongoing stress can affect digestion, immunity, sleep, mood, and other areas—leaving you with less capacity to cope well.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "block": 8,
+      "text": "Isolated fixes add to your costs",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "block": 9,
+      "text": "Taking a piecemeal approach to your health and wellbeing only adds to the costs as the root cause isn’t fully explored. The results feel the same – disconnected.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "block": 10,
+      "text": "Feel older than you actually are",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "block": 11,
+      "text": "As symptoms build, your body begins to respond differently. Keeping up with your children, grandchildren or other loved ones can become a struggle. Making memories may feel more exhausting than enjoyable.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "block": 12,
+      "text": "Precious time and energy lost",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 16,
+      "block": 13,
+      "text": "Every day spent in this cycle is a day without joy, vitality and the ability to make a difference in the world. Over time, the impact builds—until your body forces you to stop giving to others at the cost of your own health.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 17,
+      "block": 0,
+      "text": "What happens when you don’t break the loop….",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 16, block 0"
+        }
+      ]
+    },
+    {
+      "slide": 17,
+      "block": 1,
+      "text": "When you don’t listen to your body, it forces you to",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 16, block 1"
+        }
+      ]
+    },
+    {
+      "slide": 17,
+      "block": 2,
+      "text": "Delaying help",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 16, block 2"
+        }
+      ]
+    },
+    {
+      "slide": 17,
+      "block": 3,
+      "text": "Deep sleep remains out of reach",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 16, block 3"
+        }
+      ]
+    },
+    {
+      "slide": 17,
+      "block": 4,
+      "text": "High stress, poor sleep and imbalanced nutrition can keep feeding into each other—leaving you caught in a never-ending cycle of exhaustion. Your energy, focus, concentration and productivity can suffer.",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 16, block 4"
+        }
+      ]
+    },
+    {
+      "slide": 17,
+      "block": 5,
+      "text": "Regular afternoon energy crashes can make it easier to rely on sugar, caffeine or quick-fix foods. Over time, this pattern may make it harder to support steady blood sugar and long-term metabolic health.",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 16, block 5"
+        }
+      ]
+    },
+    {
+      "slide": 17,
+      "block": 6,
+      "text": "Stress and overwhelm compound",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 16, block 6"
+        }
+      ]
+    },
+    {
+      "slide": 17,
+      "block": 7,
+      "text": "Without enough recovery, everyday pressures can start to feel overwhelming. Ongoing stress can affect digestion, immunity, sleep, mood, and other areas—leaving you with less capacity to cope well.",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 16, block 7"
+        }
+      ]
+    },
+    {
+      "slide": 18,
+      "block": 0,
+      "text": "Isolated fixes add to your costs",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 16, block 8"
+        }
+      ]
+    },
+    {
+      "slide": 18,
+      "block": 1,
+      "text": "Taking a piecemeal approach to your health and wellbeing only adds to the costs as the root cause isn’t fully explored. The results feel the same – disconnected.",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 16, block 9"
+        }
+      ]
+    },
+    {
+      "slide": 18,
+      "block": 2,
+      "text": "Feel older than you are",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 18,
+      "block": 3,
+      "text": "As symptoms build, your body begins to respond differently. Keeping up with your children, grandchildren or other loved ones can become a struggle. Making memories may feel more exhausting than enjoyable.",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 16, block 11"
+        }
+      ]
+    },
+    {
+      "slide": 18,
+      "block": 4,
+      "text": "Precious time and energy lost",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 16, block 12"
+        }
+      ]
+    },
+    {
+      "slide": 18,
+      "block": 5,
+      "text": "Every day spent in this cycle is a day without joy, vitality and the ability to make a difference in the world. Over time, the impact builds—until your body forces you to stop giving to others at the cost of your own health.",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 16, block 13"
+        }
+      ]
+    },
+    {
+      "slide": 18,
+      "block": 6,
+      "text": "Delaying help slide cpntent continued…",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Continuation label"
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "block": 0,
+      "text": "Here’s How It Works",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "block": 1,
+      "text": "Book your free 30 minute - Midlife Recharge Call",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "block": 2,
+      "text": "We’ll identify what’s draining your energy, disrupting your sleep and driving your stress.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "block": 3,
+      "text": "Get your  questions answered and learn how coaching can help you to create a sustainable wellness plan and achieve your health and life goals.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "block": 4,
+      "text": "You’ll also discover which support option is the perfect fit for you.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "block": 5,
+      "text": "Get the support you need",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "block": 6,
+      "text": "Transform your health and wellbeing through my tried and tested method.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "block": 7,
+      "text": "You’ll receive personalised guidance, practical tools,  structure, and accountability to help you take back control and rebuild your health - from the inside out.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "block": 8,
+      "text": "Live well and thrive in midlife and beyond",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "block": 9,
+      "text": "When you have the right information, tools and support, smart decisions and consistent follow-through come naturally.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 19,
+      "block": 10,
+      "text": "The key to long-term change is starting small and staying consistent. Healthy living stops being a trend your follow - it becomes way of life.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 20,
+      "block": 0,
+      "text": "Prioritise your health like you’ve prioritised your career.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 20,
+      "block": 1,
+      "text": "30 mins. No pressure. Just clarity.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 20,
+      "block": 2,
+      "text": "​",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Empty formatting paragraph"
+        },
+        {
+          "disposition": "design / implementation note",
+          "reason": "Empty formatting paragraph"
+        }
+      ]
+    },
+    {
+      "slide": 20,
+      "block": 3,
+      "text": "Book Your Midlife",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 20,
+      "block": 4,
+      "text": "Recharge Call",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        },
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 21,
+      "block": 0,
+      "text": "​“What sets Chunmun apart is her absolute, unwavering dedication. She didn't just skim the surface or hand me a generic plan but took the time to genuinely dig deep and understand the root of my problems. To anyone who is struggling, feeling stuck, or searching for answers, do yourself a favour and trust her with your journey.”\n\n– Lance Rodrigues, Defence Forces",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 21,
+      "block": 1,
+      "text": "“I dropped one dress size. The experience of partnership in my personal wellness goals, the gift of clarity of my own values, being listened to without judgment and getting practical feedback have been important benefits. I have been fortunate to have a brilliant coach who offered high-quality coaching and whom I felt has always been in my corner.”",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 21,
+      "block": 2,
+      "text": "– Surinder Kaur-Sohanpal, Social Worker",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 21,
+      "block": 3,
+      "text": "Testimonial Banner",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Presentation layout / continuation label"
+        }
+      ]
+    },
+    {
+      "slide": 22,
+      "block": 0,
+      "text": "​“From the very beginning, I felt listened to, understood, and motivated. Thanks to the guidance and support I received, I’ve made positive changes that have genuinely improved my overall health and wellbeing. I would highly recommend Chunmun to anyone looking for a knowledgeable, compassionate, and supportive health coach.”\n\n– Amelia Ivory, Senior Educator",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 22,
+      "block": 1,
+      "text": "“Chunmun gave me a safe space to discuss what changes I needed to make and importantly the timescales I could do them in. Having accountability for these actions helped me. I would recommend Chunmun as a person who is good at drawing out patterns of behaviour and providing realistic support techniques to make improvements.”",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 22,
+      "block": 2,
+      "text": "- Eloise Harris, Change and Adoption Lead",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 23,
+      "block": 0,
+      "text": "“ My sleep has improved and I found the progressive muscle relaxation method useful. I’ve reduced my alcohol intake this is something I’ve been working on for a while. Chunmun’s coaching has really helped me implement changes I’ve wanted to make for ages but wasn’t able to do on my own. Now I feel confident I can continue with the changes going forward.”\n \n – Debbie Ivory, Retiree",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 23,
+      "block": 1,
+      "text": "‘I have lost weight, feel visibly more in shape, and my blood sugar is balanced. Chunmun coaching is never about rigid perfection or finding extra hours in the day; it is about practical, empathetic guidance that fits into real life. She has given me far more support, clarity, and life perspective than I could have ever asked for, and anyone fortunate enough to work with her will be in the best possible hands.”",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 23,
+      "block": 2,
+      "text": "- Manasvi Sharma, PhD Applicant",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 24,
+      "block": 0,
+      "text": "1:1 Coaching Pathways",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 25,
+      "block": 0,
+      "text": "This work is direct, personalised, practical, and designed to integrate into everyday life. As a result of working with me, you can expect to:",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 25,
+      "block": 1,
+      "text": "Have increased awareness of how pressure, overwhelm and stress show up and affect your health and wellbeing;",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 25,
+      "block": 2,
+      "text": "Have more stable energy and feel more energised throughout the day;",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 25,
+      "block": 3,
+      "text": "Have deeper sleep and wake up feeling rested and restored;",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 25,
+      "block": 4,
+      "text": "Operate with improved focus low mental fog;",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 25,
+      "block": 5,
+      "text": "Be able to bounce back from change or challenges with clarity and confidence;",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 25,
+      "block": 6,
+      "text": "Have stronger problem-solving skills and a solutions-focussed mindset;",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 25,
+      "block": 7,
+      "text": "Manage your time efficiently so you have energy for things that truly matter.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 26,
+      "block": 0,
+      "text": "Path 1: The Foundation\nTurn good intentions into lasting habits",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 26,
+      "block": 1,
+      "text": "A focused, 4-session programme to help you make real, lasting change in one area of your health and wellbeing. This package runs for 6 weeks from the date of your first session. Any sessions not used in that time will expire. All sessions will take place online.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 26,
+      "block": 2,
+      "text": "Who it's for\nYou're clear on what you want to achieve, but life keeps getting in the way. With structure, support and regular check-ins, you'll stop starting over and finally follow through.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 26,
+      "block": 3,
+      "text": "What's included",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 26,
+      "block": 4,
+      "text": "1 × 90-minute Health Audit - We get clear on where you are now, where you want to be, and what's been holding you back.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 26,
+      "block": 5,
+      "text": "3 × 50-minute coaching sessions - These are tailored to your goals, patterns and blocks, with a focus on one area: energy, sleep, stress, menopause wellbeing, or another area that matters to you.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 27,
+      "block": 0,
+      "text": "Ongoing support and accountability. You get WhatsApp or email support Monday to Friday, with replies within 24 hours, for encouragement, check-ins and guidance between sessions, so you're never left guessing.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 27,
+      "block": 1,
+      "text": "Your outcome\nYou'll leave with a clear, personalised plan, structure, accountability and confidence to keep going on your own.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 27,
+      "block": 2,
+      "text": "30 mins. No pressure. Just clarity.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 27,
+      "block": 3,
+      "text": "​",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Empty formatting paragraph"
+        }
+      ]
+    },
+    {
+      "slide": 27,
+      "block": 4,
+      "text": "Book Your Midlife",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 27,
+      "block": 5,
+      "text": "Recharge Call",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 28,
+      "block": 0,
+      "text": "Path 2: The Accelerator\nCreate real momentum",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 28,
+      "block": 1,
+      "text": "A deeper 7-session coaching programme for lasting change in one area of your health and wellbeing, with extra tools, resources and support to keep you moving forward.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 28,
+      "block": 2,
+      "text": "This package runs for 9 weeks from the date of your first session. Any sessions not used in that time will expire.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 28,
+      "block": 3,
+      "text": "Who it's for\nYou know something needs to change, but you're not sure where to start. You'd like clear information, structure and accountability to help you build momentum and keep it going.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 28,
+      "block": 4,
+      "text": "What's included",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 28,
+      "block": 5,
+      "text": "1 × 90-minute Health Audit. We get clear on where you are now, where you want to be, and what's been holding you back.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 28,
+      "block": 6,
+      "text": "6 × 50-minute coaching sessions - These are tailored to your goals, patterns and blocks, focused on one area: energy, sleep, stress, menopause wellbeing (non-medical support), healthy weight and eating habits, or another related health area that matters to you.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 29,
+      "block": 0,
+      "text": "Personalised nervous system regulation techniques - These are simple, practical tools matched to how you're feeling, to help you manage stress and feel calmer and more in control.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 29,
+      "block": 1,
+      "text": "Personalised workbook and resources: Tools made for your one area of focus so you can keep building momentum between sessions.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 29,
+      "block": 2,
+      "text": "Ongoing support and accountability. You get WhatsApp or email support Monday to Friday, with replies within 24 hours, for encouragement, check-ins and guidance whenever you need a boost.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 29,
+      "block": 3,
+      "text": "30 mins. No pressure. Just clarity.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 29,
+      "block": 4,
+      "text": "​",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Empty formatting paragraph"
+        }
+      ]
+    },
+    {
+      "slide": 29,
+      "block": 5,
+      "text": "Book Your Midlife",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 29,
+      "block": 6,
+      "text": "Recharge Call",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 29,
+      "block": 7,
+      "text": "Your outcome",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 29,
+      "block": 8,
+      "text": "You'll build real momentum, understand what works or doesn’t work for you and why, and leave with the habits, tools and confidence to sustain your progress long term.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 30,
+      "block": 4,
+      "text": "Your outcome",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 29, block 7"
+        }
+      ]
+    },
+    {
+      "slide": 30,
+      "block": 5,
+      "text": "You'll build real momentum, understand what works or doesn’t work for you and why, and leave with the habits, tools and confidence to sustain your progress long term.",
+      "uses": [
+        {
+          "disposition": "duplicate copy retained elsewhere",
+          "reason": "Same text as slide 29, block 8"
+        }
+      ]
+    },
+    {
+      "slide": 30,
+      "block": 0,
+      "text": "30 mins. No pressure. Just clarity.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 30,
+      "block": 1,
+      "text": "​",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Empty formatting paragraph"
+        }
+      ]
+    },
+    {
+      "slide": 30,
+      "block": 2,
+      "text": "Book Your Midlife",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 30,
+      "block": 3,
+      "text": "Recharge Call",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 30,
+      "block": 6,
+      "text": "Follow up support",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 30,
+      "block": 7,
+      "text": "Optional follow-up session (available at an additional cost): 1 x 20 min laser coaching session after your programme ends. This is to help you stay accountable and keep your progress on track for the long-term. Ask me for details.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "block": 0,
+      "text": "Path 3: The Mastery\nTransform momentum into a way of life",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "block": 1,
+      "text": "My most comprehensive 10 session coaching programme, for deep, lasting change across two areas of your health and wellbeing, with premium tools and personalised resources to support you for the long term.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "block": 2,
+      "text": "This package runs for 12 weeks from the date of your first session. Any sessions not used in that time will expire.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "block": 3,
+      "text": "Who it's for\nYou're ready for real, whole-life change, not a quick fix. You'd like in-depth support across two connected areas, such as sleep and stress or energy and menopause wellbeing, so healthy habits become part of who you are.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "block": 4,
+      "text": "What's included",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "block": 5,
+      "text": "1 × 90-minute Health Audit - We get clear on where you are now, where you want to be, and what's been holding you back.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "block": 6,
+      "text": "9 × 50-minute coaching sessions. These are tailored to your goals, patterns and blocks across two areas: energy, sleep, stress, menopause wellbeing (non-medical support), healthy weight and eating habits, or other areas that matter to you.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "block": 7,
+      "text": "2 × 15-minute laser coaching sessions - These are quick, high-impact check-ins between sessions to fine-tune your plan, work through challenges and keep you on track.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "block": 8,
+      "text": "Personalised nervous system regulation techniques - These are simple, practical tools matched to how you're feeling, to help you manage stress and feel calmer and more in control.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "block": 9,
+      "text": "Personalised workbook and resources: Tools made for two area of focus so you can keep building momentum between sessions.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 31,
+      "block": 10,
+      "text": "2 personalised recorded meditations - Created just for you, to support relaxation, focus or sleep whenever you need them.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 32,
+      "block": 0,
+      "text": "Ongoing support and accountability - You get WhatsApp or email support Monday to Friday, with replies within 24 hours, for encouragement, check-ins and guidance throughout.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 32,
+      "block": 1,
+      "text": "Your outcome",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 32,
+      "block": 2,
+      "text": "You'll make lasting changes in two key areas of your health, understand what works for your body and mind, and leave with a sustainable way of living you can carry forward with confidence.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 32,
+      "block": 3,
+      "text": "30 mins. No pressure. Just clarity.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 32,
+      "block": 4,
+      "text": "​",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Empty formatting paragraph"
+        }
+      ]
+    },
+    {
+      "slide": 32,
+      "block": 5,
+      "text": "Book Your Midlife",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 32,
+      "block": 6,
+      "text": "Recharge Call",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 33,
+      "block": 0,
+      "text": "FAQs",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 34,
+      "block": 4,
+      "text": "Everything else you need to know",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 34,
+      "block": 5,
+      "text": "Frequently Asked Questions",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 34,
+      "block": 1,
+      "text": "My coaching and mentoring programmes are built for ambitious, capable people who are performing below their potential - not through lack of talent or strategy, but because their body needs a different operating system in midlife.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 34,
+      "block": 2,
+      "text": "In midlife, you need more energy, self-trust and internal capacity to handle the demands that are placed on you. You deserve to wake rested, have steady energy, and handle daily stressors without lowering your standards, slowing your ambition or limiting your dreams.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 34,
+      "block": 3,
+      "text": "If you've read the books, tried the habits, followed the latest trends, but haven’t got the results you were after or can't seem to make the results stick – my personalised coaching programmes are for you.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 34,
+      "block": 0,
+      "text": "Who is this for?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 35,
+      "block": 1,
+      "text": "A health coach is also a life coach, but focuses on helping you improve your health, nutrition and wellbeing.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 35,
+      "block": 2,
+      "text": "A resilience coach helps you build the mental and emotional strength to cope with and bounce back from uncertainty, challenges and change.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 35,
+      "block": 3,
+      "text": "Most coaches focus on one part of your life. A combination of  life, health and resilience coaching is unique and extremely powerful. I take a whole person approach because your energy, sleep, nutrition, stress, mindset and life direction are all connected. When one area is out of balance, all other areas feel the effects.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 35,
+      "block": 4,
+      "text": "This joined-up and whole person approach is especially powerful in midlife, when your body, priorities and responsibilities are all shifting at once.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 35,
+      "block": 5,
+      "text": "(…continued on next slide)",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Presentation layout / continuation label"
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 0,
+      "text": "What it is",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 1,
+      "text": "Collaborative partnership",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 2,
+      "text": "An active partnership where you set the goals and direction. The coach holds space and reminds you of your strengths and capabilities.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 3,
+      "text": "Future focussed",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 4,
+      "text": "Helps you move forward with a practical plan and tools. There’s no dwelling on the past and that’s one way coaching is different from therapy.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 5,
+      "text": "A realistic approach",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 6,
+      "text": "Considers and accounts for your lifestyle, mindset, habits and barriers - not just the surface level facts.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 7,
+      "text": "Solutions oriented",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 8,
+      "text": "Focusses on Specific, Measurable, Achievable, Realistic and Time-bound actions that create lasting change.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 9,
+      "text": "What it isn’t",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 10,
+      "text": "A guilt-tripping conversation",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 11,
+      "text": "There isn’t any blaming, shaming or gaslighting.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 12,
+      "text": "Nor is it a gossip session or an offloading chat.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 13,
+      "text": "One way advice or ‘fixing’",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 14,
+      "text": "You aren’t told what to do or handed a solution. There is nothing that needs ‘fixing’.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 15,
+      "text": "A quick fix",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 16,
+      "text": "Real change takes time and consistency. There aren’t any instant solutions or approaches that work in silos.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 17,
+      "text": "Crisis support or medical intervention",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 36,
+      "block": 18,
+      "text": "Not suitable for urgent or severe mental or physical health conditions. Please seek help from your primary health care provider or other relevant support.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 35,
+      "block": 0,
+      "text": "What is health, wellness and resilience coaching?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 37,
+      "block": 1,
+      "text": "Because real transformation takes time. Long-term behavioural change happens through repetition and spaced reinforcement, not one-off breakthroughs.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 37,
+      "block": 2,
+      "text": "Too short → no real groundwork for long-term behavioural change",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 37,
+      "block": 3,
+      "text": "Too long → loss of urgency, momentum and motivation",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 37,
+      "block": 4,
+      "text": "Everyone’s health and wellbeing needs are different. This is why different time frames are needed to interrupt old beliefs, habits and behaviours, install new ones, and reinforce them until they become automatic.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 37,
+      "block": 5,
+      "text": "Think of it like planting a fruit tree in your garden. You don’t plant the seeds on Monday and expect results on Wednesday – You water and nourish the seed, a little each day, watch it blossom and yield fruits you can enjoy.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 37,
+      "block": 0,
+      "text": "Why don’t you offer single session?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 38,
+      "block": 1,
+      "text": "While each pathway has a different duration, I offer access to be flexible around your time commitments. These programmes are built to fit into your life.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 38,
+      "block": 2,
+      "text": "Onboarding sessions (60-80 minutes)",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 38,
+      "block": 3,
+      "text": "Weekly coaching sessions (50 minutes)",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 38,
+      "block": 4,
+      "text": "Daily practises (depending on your personal goals 20-30 min)",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 38,
+      "block": 5,
+      "text": "It's roughly 3.0 - 3.5 hours a week - a similar amount of time you would spend watching TV or at the pub or at the gym.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 38,
+      "block": 0,
+      "text": "How much time do I need?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 1,
+      "text": "Everyone’s situation is different, so I don't offer a one-size-fits-all package. Instead, we'll start with a conversation in your free, no-obligation discovery call.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 2,
+      "text": "Your Free Discovery Call",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 3,
+      "text": "In this relaxed 30-minute call, we'll:",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 4,
+      "text": "Talk about what's going on for you right now",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 5,
+      "text": "Explore what you'd like to change and why it matters at this stage",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 6,
+      "text": "Look at whether coaching and my approach is the right fit for you",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 7,
+      "text": "Go through package options and fees, so you can select the option that suits you best",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 8,
+      "text": "Packages start from £450.00",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 9,
+      "text": "The real cost isn't the coaching package you select. The real cost is staying in patterns where:",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 10,
+      "text": "Deep sleep remains out of reach and you don’t have energy, focus, concentration for everyday work and life.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 11,
+      "text": "Disconnected fixes add to your costs (mental, energetic and financial) and don’t give you results you were after.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 12,
+      "text": "Regular mid-afternoon energy crashes continue and lead to long-term metabolic health risks.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 13,
+      "text": "You feel older than you and don’t have the energy or vitality  to keep up with your loved ones.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 14,
+      "text": "Stress and overwhelm compound and your body goes into preservation mode rather than thrive.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 15,
+      "text": "Your personal relationships and professional performance are diluted.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 16,
+      "text": "Operating below your potential becomes the norm.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 39,
+      "block": 0,
+      "text": "How much does it cost?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 40,
+      "block": 1,
+      "text": "No problem! Coaching is a collaborative partnership between a coach (me) and a coachee (you).",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 40,
+      "block": 2,
+      "text": "A trained coach uses evidence-informed knowledge and a wide range of skills, strategies and tools to create a safe, supportive space for self-discovery, clarity to create goals and the structure and accountability to make sure you follow through on your commitments.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 40,
+      "block": 3,
+      "text": "My role is to:",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 40,
+      "block": 4,
+      "text": "To create a safe, non-judgemental space to explore, embrace self-discovery.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 40,
+      "block": 5,
+      "text": "Provide relevant information/resources, structure and accountability that will help you follow through and achieve your gaols.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 40,
+      "block": 6,
+      "text": "Where relevant and necessary, challenge you to find new or more helpful perspectives.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 40,
+      "block": 7,
+      "text": "Your role is to:",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 40,
+      "block": 8,
+      "text": "Own your goal(s) and take responsibility and accountability for the change you want to have in your life.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 40,
+      "block": 9,
+      "text": "Taks action between sessions. This means trying new habits and reflecting on how they went.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 40,
+      "block": 10,
+      "text": "Feeding back to me what is or isn't working, so the coaching can be adjusted.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 40,
+      "block": 0,
+      "text": "I've never tried coaching before. What does it include?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 41,
+      "block": 1,
+      "text": "Coaching is a collaborative partnership rather than an expert/client dynamic. As your coach and mentor, I will offer information and resources, where relevant and needed, but you have the final say on how you use the information and resources to move you towards your goals.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 41,
+      "block": 0,
+      "text": "As my health coach, will you tell me what I should do?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 42,
+      "block": 1,
+      "text": "That’s great! That usually means:",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 42,
+      "block": 2,
+      "text": "You understand the concepts in principle",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 42,
+      "block": 3,
+      "text": "But the principles haven't stuck",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 42,
+      "block": 4,
+      "text": "This programme exists for exactly that gap. This is not generic coaching – this is transformational coaching that is personalised to meet you where you are and consider your specific health, wellness and resilience goals.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 42,
+      "block": 0,
+      "text": "What if I've tried coaching work before?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 43,
+      "block": 1,
+      "text": "After the programme ends, you’ll have:",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 43,
+      "block": 2,
+      "text": "Installed helpful and supportive mental patterns",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 43,
+      "block": 3,
+      "text": "Evidence-based knowledge and practical tools to reinforce them",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 43,
+      "block": 4,
+      "text": "A system supported by resources that you can continue using independently",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 43,
+      "block": 5,
+      "text": "You can choose to continue fine-tuning your current life, health and wellness goals, or be supported on something new. Every one’s journey is different, and we’ll have time to have this chat before you end the programme.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 43,
+      "block": 0,
+      "text": "What happens after the coaching programme ends?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 44,
+      "block": 0,
+      "text": "Workplace Wellbeing",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 45,
+      "block": 0,
+      "text": "Here’s How It Works",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 45,
+      "block": 1,
+      "text": "Landing Page – S3",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Presentation layout / continuation label"
+        }
+      ]
+    },
+    {
+      "slide": 45,
+      "block": 2,
+      "text": "Discovery and Consultation",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 45,
+      "block": 3,
+      "text": "To discuss a tailored health, wellness and resilience offer for your organisation, send me an email - hello@chunmunkamal.com We begin with a conversation to understand your organisation’s goals, challenges, and wellbeing priorities.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 45,
+      "block": 4,
+      "text": "Tailored Wellbeing Talks and Events \nBased on your needs, we design a customised wellbeing talk or workshop that aligns with your workplace culture, audience, and desired outcomes. I deliver an interactive and engaging session online or in person, creating a safe and supportive space for learning, reflection, and practical takeaways",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 45,
+      "block": 5,
+      "text": "Ongoing Support and Feedback\nAfter the session, we gather feedback and provide follow-up resources, recommendations, or additional wellbeing support to help maintain long-term impact.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 45,
+      "block": 6,
+      "text": "​",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Empty formatting paragraph"
+        }
+      ]
+    },
+    {
+      "slide": 45,
+      "block": 7,
+      "text": "Workplace Wellbeing",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 45,
+      "block": 8,
+      "text": "Discovery Call",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 45,
+      "block": 9,
+      "text": "Bespoke Training. Let’s chat.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 46,
+      "block": 0,
+      "text": "Case Studies",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 47,
+      "block": 6,
+      "text": "Case Study #1",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 47,
+      "block": 7,
+      "text": "Reasons for health and wellness coaching: Chronic Stress and Nutritional Imbalance",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 47,
+      "block": 0,
+      "text": "What we worked on?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 47,
+      "block": 1,
+      "text": "Identifying the root causes of the chronic stress.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 47,
+      "block": 2,
+      "text": "Habit stacking to simplify evening routine.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 47,
+      "block": 3,
+      "text": "Gentle practises to lower cortisol (stress hormone) and regulate the nervous system.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 47,
+      "block": 4,
+      "text": "Introducing a balancing blood sugar balancing diet and making realistic swaps for every day demanding schedule.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 47,
+      "block": 5,
+      "text": "Including small and sustainable lifestyle changes to support nutritional needs, sleep, stress management and recovery.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 47,
+      "block": 8,
+      "text": "The results in their words",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 47,
+      "block": 9,
+      "text": "​“When I first spoke to Chunmun, I was exhausted, overwhelmed, and had stress that felt completely unmanageable. The heavy burden I used to carry is gone, replaced by vitality and peace of mind.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 47,
+      "block": 10,
+      "text": "What sets her apart is her absolute, unwavering dedication. She didn't just skim the surface or hand me a generic plan but took the time to genuinely dig deep and understand the root of my problems.”",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 47,
+      "block": 11,
+      "text": "To anyone who is struggling, feeling stuck, or searching for answers, do yourself a favour and trust her with your journey. She is an exceptional coach, a beautiful soul, and I am profoundly thankful for the immense difference she has made in my life.”",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 47,
+      "block": 12,
+      "text": "– Lance Rodrigues, Defence Forces",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 48,
+      "block": 5,
+      "text": "Case Study #2",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 48,
+      "block": 6,
+      "text": "Reasons for health and wellness coaching: Stress Management, Disruptive sleep pattern caused by work, Tired, Lacking energy , Impact of allergies on overall health and quality of life.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 48,
+      "block": 0,
+      "text": "What we worked on?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 48,
+      "block": 1,
+      "text": "Breath work practises to reduce overwhelm and manage stress and recovery.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 48,
+      "block": 2,
+      "text": "Identifying the root causes of the chronic stress and sleep disruption.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 48,
+      "block": 3,
+      "text": "Progressive inclusion of movement to support recovery, energy and overall wellbeing.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 48,
+      "block": 4,
+      "text": "Clarifying personal values to reduce friction with health, career and life goals.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 48,
+      "block": 7,
+      "text": "The results in their words",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 48,
+      "block": 8,
+      "text": "“I dropped one dress size. Coaching helped me bring my goals in line with my values. I now have the tools to manage myself emotionally and mentally. The experience of partnership in my personal wellness goals, the gift of clarity of my own values, being listened to without judgment and getting practical feedback have been important benefits.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 48,
+      "block": 9,
+      "text": "I have been fortunate to have a brilliant coach who offered high-quality coaching and whom I felt has always been in my corner. I am grateful for the opportunity of having this coaching relationship.”",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 48,
+      "block": 10,
+      "text": "– Surinder Kaur-Sohanpal, Social Worker",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 49,
+      "block": 6,
+      "text": "Case Study #3",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 49,
+      "block": 7,
+      "text": "Reasons for health and wellness coaching: Improving duration and quality of sleep , Stress Management, Gut issues and inflammation, Sugar cravings, Improving hair and skin.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 49,
+      "block": 0,
+      "text": "What we worked on?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 49,
+      "block": 1,
+      "text": "Identifying the root causes of the chronic stress and sleep disruption.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 49,
+      "block": 2,
+      "text": "Introducing blood sugar balance diet to tackle stress, gut issues and sugar cravings",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 49,
+      "block": 3,
+      "text": "Breath work practises to reduce overwhelm and manage stress and recovery.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 49,
+      "block": 4,
+      "text": "Night-time routine and relaxation techniques for longer and deeper sleep.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 49,
+      "block": 5,
+      "text": "Clarifying personal values to reduce friction with health, career and life goals.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 49,
+      "block": 8,
+      "text": "The results in their words",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 49,
+      "block": 9,
+      "text": "“ I’m so grateful for all the support and encouragement I’ve received throughout the coaching journey.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 49,
+      "block": 10,
+      "text": "From the very beginning, I felt listened to, understood, and motivated. The sessions were enjoyable, informative, and tailored to my needs. I’ve learned so much about improving my health in a way that feels realistic and sustainable. Thanks to the guidance and support I received, I’ve made positive changes that have genuinely improved my overall health and wellbeing.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 49,
+      "block": 11,
+      "text": "I would highly recommend Chunmun to anyone looking for a knowledgeable, compassionate, and supportive health coach. Thank you for making such a positive difference to my health and helping me build healthier habits that I can continue with.’”",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 49,
+      "block": 12,
+      "text": "– Amelia Ivory, Senior Hair Educator",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 50,
+      "block": 4,
+      "text": "Case Study #4",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 50,
+      "block": 5,
+      "text": "Reasons for health and wellness coaching: Stress Management, Burnout, Sleep, Nutrition, Rest and Recovery",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 50,
+      "block": 0,
+      "text": "What we worked on?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 50,
+      "block": 1,
+      "text": "Mindset and learned behaviours contributing to overwhelm, stress and burnout",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 50,
+      "block": 2,
+      "text": "Breath work practises to reduce overwhelm and manage stress and recovery.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 50,
+      "block": 3,
+      "text": "Carving time for self-care and recovery.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 50,
+      "block": 6,
+      "text": "The results in their words",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 50,
+      "block": 7,
+      "text": "“I wanted to try coaching having now been in a period of my life where I had been off work with stress. Chunmun gave me a safe space to discuss what changes I needed to make and importantly the timescales I could do them in. Having accountability for these actions helped me, as made me more willing to try these new approaches for example in improving my diet, getting more rest and having more exercise so to prevent future burnout.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 50,
+      "block": 8,
+      "text": "As the sessions progressed, I started to recognise the patterns of learned behaviour and cycles that I needed to change. I was given the opportunity to do this in bite sized realistic chunks which I did find useful.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 50,
+      "block": 9,
+      "text": "I would recommend Chunmun as a person who is good at drawing out patterns of behaviour and providing realistic support techniques to make improvements.”",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 50,
+      "block": 10,
+      "text": "– Eloise Harris, Change and Adoption Lead",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 51,
+      "block": 6,
+      "text": "Case Study #5",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 51,
+      "block": 7,
+      "text": "Reasons for health and wellness coaching: Post-menopausal changes affecting sleep, Alcohol intake reduction, Mid-day energy slumps",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 51,
+      "block": 0,
+      "text": "What we worked on?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 51,
+      "block": 1,
+      "text": "Mindset and learned behaviours getting in the way of a long-term lifestyle change to reduce daily alcohol intake.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 51,
+      "block": 2,
+      "text": "Understanding the impact of alcohol on the body, sleep, recovery and hormones.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 51,
+      "block": 3,
+      "text": "Relaxation techniques for longer and deeper sleep.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 51,
+      "block": 4,
+      "text": "Re-balancing the diet to reduce mind-afternoon energy slumps and increase quality of night sleep.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 51,
+      "block": 5,
+      "text": "Setting and maintaining healthy boundaries.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 51,
+      "block": 8,
+      "text": "The results in their words",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 51,
+      "block": 9,
+      "text": "“ My sleep has improved and I found the progressive muscle relaxation method useful.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 51,
+      "block": 10,
+      "text": "I’ve reduced my alcohol intake this is something I’ve been working on for a while. Chunmun’s coaching has really helped me implement changes I’ve wanted to make for ages but wasn’t able to do on my own. Now I feel confident I can continue with the changes going forward.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 51,
+      "block": 11,
+      "text": "I’ve become more assertive and feel in a better position to say no when previously would have said yes just to please other people.”",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 51,
+      "block": 12,
+      "text": "– Debbie Ivory, Retiree",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 52,
+      "block": 7,
+      "text": "Case Study #5",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 52,
+      "block": 8,
+      "text": "Reasons for health and wellness coaching: Stress management, Low energy, Becoming a better version of self for career opportunities",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 52,
+      "block": 0,
+      "text": "What we worked on?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 52,
+      "block": 1,
+      "text": "Mindset and learned behavioural patterns getting in the way personal and career development.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 52,
+      "block": 2,
+      "text": "Understanding the impact of stress on sleep, recovery and mental health.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 52,
+      "block": 3,
+      "text": "Relaxation and breath work techniques for nervous system regulation.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 52,
+      "block": 4,
+      "text": "Blood sugar balanced diet to improve energy, sleep and physical stamina. Preference for vegetarian meals was key.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 52,
+      "block": 5,
+      "text": "Carving time away from academic demands and for self-care and recovery.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 52,
+      "block": 6,
+      "text": "Finding the right medical support for health concerns.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 52,
+      "block": 9,
+      "text": "The results in their words",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 52,
+      "block": 10,
+      "text": "“ Chunmun created an extraordinarily safe, non-judgmental space where I could bring forward anything .",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 52,
+      "block": 11,
+      "text": "She never treated nutrition in isolation; she seamlessly helped me connect my physical health with my emotional well-being. She helped me identify where I needed to improve, guided me to learn from setbacks, and fundamentally shifted my perspective so that I could view challenges through a much broader, healthier lens. Healthy eating is no longer an effort it has transitioned into an automatic daily habit. More importantly, I now observe and understand my body’s signals much better, and I have cultivated a healthy routine of rewarding myself with things that bring me joy “",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 52,
+      "block": 12,
+      "text": "– Manasvi Sharma, PhD Applicant",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 53,
+      "block": 0,
+      "text": "About Me",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 54,
+      "block": 0,
+      "text": "About Me - 1",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Presentation layout / continuation label"
+        }
+      ]
+    },
+    {
+      "slide": 54,
+      "block": 1,
+      "text": "Hi! I’m Chunmun and I’m a Holistic Health, Wellness and Resilience Coach who is obsessed with an integrated approach to health and wellbeing.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 54,
+      "block": 2,
+      "text": "I didn’t become a coach because it sounded appealing. I became a coach because I experienced first what happens when you ignore the signals that a body that is breaking down sends. I also experienced the power of having someone’s undivided attention and support to regain my health, confidence and capacity to overcome life’s hurdles and challenges.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 54,
+      "block": 3,
+      "text": "My interest in personal development, psychology, mental wellbeing, and resilience began during an intense 5 -year period of, back‑to‑back midlife changes that led to health issues and eventually, burnout. Along the way, my body kept signalling that I something wasn’t right. Sometimes, I didn't understand the signals. At other times, I ignored them.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 54,
+      "block": 4,
+      "text": "My body forced me to slow down and care for myself. Now, as a Health, Wellness and Resilience Coach, I use my lived experience and knowledge to help individuals in midlife have more energy, vitality and capacity for change.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 0,
+      "text": "About Me - 2",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Presentation layout / continuation label"
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 1,
+      "text": "Education",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 2,
+      "text": "I hold a bachelor’s degree in Physics, a Masters in Social Work, a Masters in Business Administration and Diploma in Digital Learning Design.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 3,
+      "text": "My education and professional experiences shape my coaching approach, combining knowledge from different disciplines along with the wisdom of my Indian heritage.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 4,
+      "text": "My Coaching Path And Credentials",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 5,
+      "text": "Coaching",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 6,
+      "text": "Diploma in Health and Wellness Coaching (In-Progress), UK, 2025 - 2026; PCI Certified.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 7,
+      "text": "Certified Menopause Coach, 2025",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 8,
+      "text": "Resilience Coaching, 2021",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 9,
+      "text": "Mindfulness, Nervous System Regulation, Yoga",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 10,
+      "text": "Nervous System Regulation (NSR) Practitioner Kit 2025/6",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 11,
+      "text": "Mindfulness-Based Stress Reduction (MBSR) Diploma, 2019",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 12,
+      "text": "RYT 200 Hours International Yoga Teachers Training including Yogic breathwork, Mudras, Mantras, Meditation and the Bhagavad Geeta, India, 2018",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 13,
+      "text": "Reiki, Level and 2, 2015",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 14,
+      "text": "Diet",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 55,
+      "block": 15,
+      "text": "Diet Specialist Nutrition Course – Levels 3 and 4 – AfN Certified Course, 2018",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 56,
+      "block": 1,
+      "text": "Professional Memberships and Associations",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 56,
+      "block": 0,
+      "text": "Logo 1",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Logo placement; existing black logo used"
+        }
+      ]
+    },
+    {
+      "slide": 56,
+      "block": 2,
+      "text": "Logo 1",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Logo placement; existing black logo used"
+        }
+      ]
+    },
+    {
+      "slide": 56,
+      "block": 3,
+      "text": "Logo 1",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Logo placement; existing black logo used"
+        }
+      ]
+    },
+    {
+      "slide": 57,
+      "block": 2,
+      "text": "A Little More About Me",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 57,
+      "block": 0,
+      "text": "My fuels",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 57,
+      "block": 1,
+      "text": "Water and Masala Chai - I can’t do without both! Everything’s better when there’s a tall glass of water & a big mug of piping hot tea around.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 57,
+      "block": 3,
+      "text": "Movement",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 57,
+      "block": 4,
+      "text": "Some form of movement while listening to a podcast or some peppy music. It keeps my mind de-cluttered, my body & keep my soul nourished.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 57,
+      "block": 5,
+      "text": "Morning Must-Haves",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 57,
+      "block": 6,
+      "text": "An ayurvedic concoction to wake up my digestion followed by meditation & journaling to ground my energy. Early morning self-care is non-negotiable.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 57,
+      "block": 7,
+      "text": "Photo Placeholder",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Visual placeholder implemented as imagery or page layout"
+        }
+      ]
+    },
+    {
+      "slide": 57,
+      "block": 8,
+      "text": "Photo Placeholder",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Visual placeholder implemented as imagery or page layout"
+        }
+      ]
+    },
+    {
+      "slide": 57,
+      "block": 9,
+      "text": "Photo Placeholder",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Visual placeholder implemented as imagery or page layout"
+        }
+      ]
+    },
+    {
+      "slide": 58,
+      "block": 0,
+      "text": "Book Your Midlife Recharge Call",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 59,
+      "block": 0,
+      "text": "Ready to take the first step?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 59,
+      "block": 1,
+      "text": "I’d love to help you with your health and wellbeing goals. Book your free 30 minute - Midlife Recharge Call",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 59,
+      "block": 2,
+      "text": "We’ll identify what’s draining your energy, disrupting your sleep and driving your stress.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 59,
+      "block": 5,
+      "text": "https://calendly.com/hello-chunmunkamal/30min",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 59,
+      "block": 3,
+      "text": "​",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Calendly integration implemented as widget plus direct calendar link"
+        }
+      ]
+    },
+    {
+      "slide": 59,
+      "block": 4,
+      "text": "Calendly  Link",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Calendly integration implemented as widget plus direct calendar link"
+        }
+      ]
+    },
+    {
+      "slide": 59,
+      "block": 6,
+      "text": "<!-- Calendly inline widget begin -->",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Calendly integration implemented as widget plus direct calendar link"
+        }
+      ]
+    },
+    {
+      "slide": 59,
+      "block": 7,
+      "text": "<div class=\"calendly-inline-widget\" data-url=\"https://calendly.com/hello-chunmunkamal/30min\" style=\"min-width:320px;height:700px;\"></div>",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Calendly integration implemented as widget plus direct calendar link"
+        }
+      ]
+    },
+    {
+      "slide": 59,
+      "block": 8,
+      "text": "<script type=\"text/javascript\" src=\"https://assets.calendly.com/assets/external/widget.js\" async></script>",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Calendly integration implemented as widget plus direct calendar link"
+        }
+      ]
+    },
+    {
+      "slide": 59,
+      "block": 9,
+      "text": "<!-- Calendly inline widget end -->",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Calendly integration implemented as widget plus direct calendar link"
+        }
+      ]
+    },
+    {
+      "slide": 60,
+      "block": 0,
+      "text": "Leave this 30 min call with more:",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 60,
+      "block": 4,
+      "text": "Clarity",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 60,
+      "block": 5,
+      "text": "You’ll understand the connection between energy, sleep and stress.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 60,
+      "block": 6,
+      "text": "Compassion",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 60,
+      "block": 7,
+      "text": "You’ll understand how  your body needs a different kind of support.",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 60,
+      "block": 8,
+      "text": "Confidence",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 60,
+      "block": 9,
+      "text": "You’ll leave with one clear next step that you can start implementing right away",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 60,
+      "block": 1,
+      "text": "Photo/icon Placeholder",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Visual placeholder implemented as imagery or page layout"
+        }
+      ]
+    },
+    {
+      "slide": 60,
+      "block": 2,
+      "text": "Phot/icon Placeholder",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Visual placeholder implemented as imagery or page layout"
+        }
+      ]
+    },
+    {
+      "slide": 60,
+      "block": 3,
+      "text": "Phot/icon Placeholder",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Visual placeholder implemented as imagery or page layout"
+        }
+      ]
+    },
+    {
+      "slide": 61,
+      "block": 0,
+      "text": "First name (required) \t\tLast name (required)",
+      "uses": [
+        {
+          "disposition": "verbatim form copy",
+          "reason": "Name row split into two fields"
+        }
+      ]
+    },
+    {
+      "slide": 61,
+      "block": 1,
+      "text": "Mobile phone (required)",
+      "uses": [
+        {
+          "disposition": "verbatim form copy",
+          "reason": "Name row split into two fields"
+        }
+      ]
+    },
+    {
+      "slide": 61,
+      "block": 2,
+      "text": "Email (required)",
+      "uses": [
+        {
+          "disposition": "verbatim form copy",
+          "reason": "Name row split into two fields"
+        }
+      ]
+    },
+    {
+      "slide": 61,
+      "block": 8,
+      "text": "Submit Responses",
+      "uses": [
+        {
+          "disposition": "verbatim form copy",
+          "reason": "Name row split into two fields"
+        }
+      ]
+    },
+    {
+      "slide": 61,
+      "block": 3,
+      "text": "How did you hear about me (free text) ?",
+      "uses": [
+        {
+          "disposition": "form specification implemented",
+          "reason": "Public label retained; editor notes implemented as control type"
+        }
+      ]
+    },
+    {
+      "slide": 61,
+      "block": 4,
+      "text": "Which programme are you interested in? (Drop down options: The Foundation, The Accelerator, The Mastery; Workplace Wellbeing )",
+      "uses": [
+        {
+          "disposition": "form specification implemented",
+          "reason": "Public label retained; editor notes implemented as control type"
+        }
+      ]
+    },
+    {
+      "slide": 61,
+      "block": 5,
+      "text": "Your message (free text)",
+      "uses": [
+        {
+          "disposition": "form specification implemented",
+          "reason": "Public label retained; editor notes implemented as control type"
+        }
+      ]
+    },
+    {
+      "slide": 61,
+      "block": 7,
+      "text": "​",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Empty formatting paragraph"
+        }
+      ]
+    },
+    {
+      "slide": 61,
+      "block": 6,
+      "text": "Prefer to email?",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 61,
+      "block": 9,
+      "text": "If you have any questions or concerns, please don’t hesitate to reach out. You can also email  me at hello@chunmunkamal.com",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "slide": 63,
+      "block": 0,
+      "text": "Copy over the blog entry on stress",
+      "uses": [
+        {
+          "disposition": "design / implementation note",
+          "reason": "Existing stress article copied in full to blog.html"
+        }
+      ]
+    },
+    {
+      "slide": 62,
+      "block": 0,
+      "text": "Blog",
+      "uses": [
+        {
+          "disposition": "verbatim website copy",
+          "reason": ""
+        }
+      ]
+    }
+  ]
+}

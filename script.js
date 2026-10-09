@@ -12,6 +12,18 @@ document.addEventListener('keydown', (event) => {
     menu.focus();
   }
 });
+// Reset the mobile menu when switching between phone and desktop layouts.
+const mobileLayout = window.matchMedia('(max-width: 1024px)');
+mobileLayout.addEventListener('change', () => {
+  menu?.setAttribute('aria-expanded', 'false');
+  navigation?.classList.remove('open');
+});
+navigation?.addEventListener('click', (event) => {
+  if (event.target.closest('a') && mobileLayout.matches) {
+    menu?.setAttribute('aria-expanded', 'false');
+    navigation.classList.remove('open');
+  }
+});
 const form = document.querySelector('#contact-form');
 if (form) {
   const programme = new URLSearchParams(location.search).get('programme');
